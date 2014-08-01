@@ -7,14 +7,14 @@ Age	Name	Time	Year
 44	Michelle Eastman	25:16	2011
 45	Ann Bushey	23:14	2003
 46	Lorrie Tily	22:24	2007
-47	Sue Leone	24:19	2000
+47	Suzanne Leone	24:19	2000
 48	Zsofia Franck	23:27	2001
 49	Zsofia Franck	22:40	2002
 50	Suzanne Leone	22:44	2003
 51	Suzanne Leone	22:59	2004
 52	Marie Fitzsimmons	23:34	2011
 53	Suzanne Leone	22:31	2006
-54	Sue Leone	23:36	2007
+54	Suzanne Leone	23:36	2007
 55	Suzanne Leone	23:45	2008
 56	Zsofia Franck	22:35	2008
 57	Zsofia Franck	23:53	2010
