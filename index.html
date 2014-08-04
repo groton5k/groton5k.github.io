@@ -63,7 +63,7 @@
 						matches.push(lines[i]);
 					}
 				}
-				$(where).empty().show();
+				$(where).empty().hide();
 				if (matches.length > 0) {
 					matches.unshift("Name\tAge\tTime\tYear");	
 					matches.unshift("Names matching '" + searchString + "'");
@@ -71,6 +71,10 @@
 				} else {
 					$(where).html("<p><b>No names match '" + searchString + "'<\/b><\/p>");
 				}
+				/*Couldn't get tables to show after resultsFrame was displayed without following*/
+				setTimeout(function () {
+					$(where).show();
+				}, 0);
 			}, "text");
 		}
 		$(function () {
