@@ -7,6 +7,8 @@
 
 .ui-widget {
 	font-size: 0.9em; }
+.ui-tab-panel {
+	padding: 1em 1em; }
 h1, h3 {
 	color:red; }
 h4 {
