@@ -3,12 +3,14 @@ Aaron Kather	16	22:12	2005
 Aaron Kather	17	21:55	2006
 Aaron Oswald	8	28:46	2001
 Aaron Oswald	9	26:19	2002
+Abbey Yatsko	16	23:08	2014
 Abby Costello	24	25:36	2008
 Abe Vidulich	10	27:46	1999
 Adam Cronk	10	27:32	2010
 Adam Cronk	11	24:09	2011
 Adam Cronk	12	22:54	2012
 Adam Cronk	13	22:12	2013
+Adam Cronk	14	20:33	2014
 Adam Engst	33	18:27	2001
 Adam Engst	34	17:44	2002
 Adam Engst	35	17:24	2003
@@ -21,6 +23,7 @@ Adam Engst	43	18:10	2011
 Adam Engst	44	17:03	2012
 Adam Lantry	15	23:02	2006
 Adam Lodner	17	25:59	2012
+Adam Long	28	19:22	2014
 Adam Nalven	23	17:57	2002
 Adam Parker	16	22:49	2005
 Adam Rice	15	22:05	2008
@@ -33,6 +36,7 @@ Al Wruck	65	23:57	2010
 Al Wruck	66	23:26	2011
 Al Wruck	67	24:47	2012
 Al Wruck	68	26:31	2013
+Al Wruck	69	29:03	2014
 Alan Willett	41	20:39	2001
 Alex Calvert	26	22:24	1998
 Alex Clark	16	20:47	2011
@@ -50,6 +54,7 @@ Alex Ward	13	25:04	2009
 Alexander Rundle	16	26:02	2010
 Alexander Rundle	17	22:23	2011
 Alexis Scarlata	16	40:53	2013
+Alexis Scarlatta	17	32:59	2014
 Alida Van Almelo	17	23:24	2002
 Alida VanAlmelo	13	24:33	1998
 Alida VanAlmelo	14	24:42	1999
@@ -60,6 +65,7 @@ Allison Cronk	14	23:52	2010
 Allison Cronk	15	24:20	2011
 Allison Cronk	16	22:29	2012
 Allison Cronk	17	22:49	2013
+Allison Cronk	18	24:31	2014
 Allison Jennings	27	28:29	2008
 Allison Muench	30	29:33	2001
 Allison Schnurle	23	26:51	2012
@@ -96,7 +102,9 @@ Andrew Bonavie	28	18:21	2000
 Andrew Brandon	19	28:46	1998
 Andrew Carey	24	20:04	2010
 Andrew Carey	25	20:29	2011
+Andrew Ferris	16	23:15	2014
 Andrew Getzin	32	18:53	2001
+Andrew Getzin	45	19	2014
 Andrew Gross	30	22:05	2009
 Andrew Gross	31	43:22	2010
 Andrew Gross	32	19:33	2011
@@ -154,6 +162,7 @@ Audrey Moore	18	22:45	2005
 Audrey Moore	23	24:15	2010
 Audrey Moore	24	25:23	2011
 Audrey Moore	25	25:28	2012
+Austin Mead	17	21:50	2014
 Avi Taheri	43	37:27	2003
 Barb Saroka	40	39:23	1999
 Barb Wells	30	22:07	2002
@@ -174,9 +183,11 @@ Barbara Sobol	49	29:05	2010
 Barbara Sobol	50	28:15	2011
 Barbara Sobol	51	27:57	2012
 Barbara Sobol	52	28:02	2013
+Barbara Sobol	53	28:03	2014
 Barbara Wells	32	21:30	2004
 Bardia Rahmani	9	37:21	2003
 Barry Dunning	44	26:53	2013
+Barry Dunning	45	23:11	2014
 Becca McIntyre	15	31:09	2012
 Becky Evans	25	29:45	2011
 Becky Jacobs	15	33:21	1998
@@ -201,11 +212,13 @@ Bert Cass	63	27:18	1998
 Besbes	37	27:43	1999
 Beth Cannon	44	36:06	2011
 Beth Cannon	45	35:52	2012
+Beth Cannon	47	42:28	2014
 Beth Costine	26	27:24	2002
 Beth Dexter	36	25:22	2012
 Beth Evener	26	28:53	2013
 Beth Ginalski	29	26:40	1998
 Beth Reynolds	48	26:26	2012
+Bethany Marks	23	46:10	2014
 Bethany Steves	16	46:40	2009
 Betsy Martens	47	26:36	2001
 Betsy Meldrim	25	21:44	2007
@@ -218,6 +231,7 @@ Bill Howell	65	23:53	2012
 Bill McGovern	44	19:29	2004
 Bill McGovern	45	19:03	2005
 Bill Mjllarnehy	41	19:31	1999
+Billie Downs	31	26:48	2014
 Billy Evans	24	22:10	2011
 Billy-Jo Sorgi	17	42:34	2012
 Blair Wingsten	17	22:32	2011
@@ -274,6 +288,7 @@ Brian Heltsley	47	24:07	2001
 Brian Oursler	55	23:41	2007
 Brian Oursler	56	25:44	2008
 Brian Oursler	60	26:55	2012
+Brian Oursler	62	28:19	2014
 Brian Twitchell	43	30:57	2010
 Brian Watson	15	22:07	2002
 Brian Watson	16	19:43	2003
@@ -283,6 +298,7 @@ Brian Watson	23	21:22	2010
 Brian Watson	24	20:04	2011
 Brian Watson	25	20:47	2012
 Brian Watson	26	21:51	2013
+Brian Watson	27	24:14	2014
 Brian Wells	31	30:30	2002
 Bridget Barry	35	41:24	1998
 Bridget Meeman	15	26:01	2007
@@ -292,9 +308,11 @@ Brittany Schrock	15	23:15	2005
 Brittany Schrock	16	24:05	2006
 Brittney Blowe	24	36:21	2011
 Brooke Jackson	14	31:52	2012
+Brooke Jackson	16	29:39	2014
+Brookley Spanbauer	33	30:16	2014
 Bruce Barber	45	23:10	2007
 Bruce Barber	46	22:57	2008
-Bruce Barber	47	22:00	2009
+Bruce Barber	47	22	2009
 Bruce Barber	48	24:53	2010
 Bruce Barber	49	21:30	2011
 Bruce Tillapaugh	46	22:57	2000
@@ -324,13 +342,15 @@ Carin Kennard	39	25:04	2011
 Carl Franck	58	21:36	2010
 Carl Franck	60	21:58	2012
 Carl Franck	61	22:52	2013
+Carl Franck	62	24:16	2014
 Carmela MacKenzie	40	29:46	2004
 Carol Crean	50	36:42	2000
 Carol Forehand	62	39:54	2013
 Carole Crean	52	33:13	2002
-Caroline Rasmussen	57	26:19	2009
+Caroline Rasmussen	51	26:19	2009
 Caroline Rasmussen	54	24:27	2012
 Caroline Rasmussen	55	26:01	2013
+Caroline Rasmussen	56	25:24	2014
 Carolyn Ferguson	33	29:43	2009
 Carolyn Ferguson	34	24:11	2010
 Carolyn Ferguson	35	23:28	2011
@@ -347,9 +367,11 @@ Cassandra Crane	31	20:23	2000
 Cassie Orzano	12	27:26	1998
 Cassie Orzano	13	25:51	1999
 Catherine Jenks	14	26:21	2013
+Catherine Jenks	15	25:54	2014
 Catherine Reeve	31	29:31	2009
 Cathy Hall	52	39:39	2012
 Cathy Hall	53	42:08	2013
+Cathy Hall	54	33:01	2014
 Catlun Ramsey	30	20:49	1999
 Chad Shurtleff	29	29:11	2006
 Chad Shurtleff	32	28:30	2008
@@ -381,7 +403,7 @@ Chris Gill	15	26:07	2009
 Chris Gill	16	24:30	2010
 Chris Jenney	17	21:38	2003
 Chris Jetty	28	27:46	2000
-Chris Johnson	17	22:00	2006
+Chris Johnson	17	22	2006
 Chris Kimpel	15	21:24	2004
 Chris Kimpel	17	18:57	2006
 Chris Kobos	44	24:47	2003
@@ -399,7 +421,7 @@ Christine Yonta	38	25:55	2001
 Christopher Bartos	14	24:30	2000
 Christopher Bartos	15	20:51	2001
 Christopher Bartos	16	18:51	2002
-Christopher Carman	17	23:00	2003
+Christopher Carman	17	23	2003
 Christopher Drake	16	21:56	2000
 Christopher Gill	17	26:15	2011
 Christopher Muka	52	22:14	2008
@@ -410,6 +432,7 @@ Christopher Van Loon	7	25:36	2003
 Christopher VanLoon	8	25:57	2004
 Chuck Collins	68	23:23	2002
 Chuck Henderson	58	26:40	2013
+Chuck Henderson	59	27:29	2014
 Cindy Bosley	46	29:21	2009
 Cindy Bosley	47	30:50	2010
 Claire Grasmeyer	57	29:07	2009
@@ -420,6 +443,7 @@ Cole Banfield	8	30:01	2006
 Colin Davis	16	22:05	2008
 Colin Snyder	15	28:19	2008
 Colin Snyder	17	23:29	2010
+Colin Wood	17	34:41	2014
 Colleen Eccles	17	20:17	1999
 Colleen Gloster-Gray	49	39:50	2012
 Colleen Gloster-Gray	50	34:28	2013
@@ -447,11 +471,13 @@ Cristopher Crooker	41	28:06	2007
 Dale Barrows	15	29:07	1998
 Dale Barrows	16	29:57	1999
 Dan Dougherty	45	27:33	2007
+Dan Dwyer	53	22:28	2014
 Dan Kinney	52	24:01	2013
 Dan Lamb	44	20:37	2007
 Dan Lamb	45	21:01	2008
-Dan Lamb	46	21:00	2009
+Dan Lamb	46	21	2009
 Dan Lamb	47	21:03	2010
+Dan Lamb	51	20:38	2014
 Dan Malarkey	15	21:21	1999
 Dan Malarkey	16	21:24	2000
 Dan Malarkey	17	21:55	2001
@@ -464,9 +490,12 @@ Dan Wakeman	38	23:11	2005
 Dan Wakeman	39	23:27	2006
 Dan Wakeman	40	23:50	2007
 Dan Wakeman	42	22:49	2009
+Dan Wakeman	47	24:10	2014
 Dana Gerhalt	44	25:51	1998
 Dana Gerhart	59	23:58	2013
+Dana Gerhart	60	24:29	2014
 Dana Potenza	49	28:47	2004
+Danean Fatcheric	46	34:42	2014
 Daner Dwyer	50	22:35	2011
 Daniel Comisi	17	23:12	2009
 Daniel Kinney	50	23:43	2011
@@ -479,6 +508,7 @@ Daniel Walker	15	21:35	2002
 Danielle Caracci	16	21:06	1998
 Danny Riffel	14	24:51	2005
 Danny Swann	13	22:04	2007
+Darren Ostrander	17	19:53	2014
 Dathy Finnerty	35	24:55	1998
 Dave Johnson	49	27:31	2003
 Dave Luckner	56	26:57	2012
@@ -498,7 +528,9 @@ David Johnson	52	25:49	2006
 David Johnson	54	27:32	2008
 David Johnson	59	26:20	2013
 David Jung	50	22:12	2010
+David Jung	54	24:03	2014
 David Kalb	48	21:50	2005
+David Luckner	58	27:51	2014
 David Moore	16	38:06	2004
 David Patruno	34	17:38	1999
 David Patruno	35	18:25	2000
@@ -514,7 +546,9 @@ David Saroka	15	22:32	2004
 David Saroka	16	21:14	2005
 David Saroka	17	23:09	2006
 David Scott	18	26:37	2013
+David Scott	19	22:13	2014
 David Stathis	54	29:38	2013
+Dawn Knapp	41	43:41	2014
 Dawn Metcalf	46	41:02	2013
 Dean Hartnett	36	21:42	1999
 Dean Hartnett	37	21:38	2000
@@ -525,6 +559,8 @@ Deanna Laurentz	43	27:42	2004
 Deb Springer	27	19:42	2001
 Deborah Grusenmeyer	41	40:25	2007
 Deborah Newman	40	32:27	2007
+Debra Federation	44	30:57	2014
+Debra Garrow	16	38:28	2014
 Dee Caldwell	46	37:50	2007
 Dee Caldwell	47	42:25	2008
 Dee Caldwell	48	38:42	2009
@@ -557,9 +593,10 @@ Drew Harrell	47	27:40	2002
 Drew Harvell	46	27:02	2001
 Drew Harvell	49	27:24	2003
 Drew Jackson	10	25:05	2012
+Drew Jackson	12	26:18	2014
 Drew Kinney	42	23:42	2011
 Drew Kinney	43	23:46	2012
-Duke Bush	40	23:00	2002
+Duke Bush	40	23	2002
 Duncan Smith	12	22:59	2006
 Duncan Smith	13	22:58	2007
 Dustin Novitzki	16	23:42	2001
@@ -567,8 +604,10 @@ Dustin Novitzki	18	28:50	2003
 Dylan Bland	15	22:47	2011
 Dylan Bland	16	22:02	2012
 Edward Hotchkin	63	28:05	2013
+Edward Hotchkin	64	30:11	2014
 Edward Potter	12	26:05	2009
 Eileen Cody	16	20:26	2008
+Elaine Gordon	54	28:04	2014
 Elaine Kimpel	49	29:53	2003
 Elaine Kimpel	50	30:19	2004
 Elaine Kimpel	51	29:45	2005
@@ -590,6 +629,7 @@ Elliott McConnell	14	25:17	2007
 Emilee Usack	10	30:46	2000
 Emily Hess	14	32:17	2012
 Emily Hess	15	28:00	2013
+Emily Hess	16	26:09	2014
 Emily Rasmussen	14	26:25	2010
 Emily Rasmusson	13	28:37	2009
 Emily Thresher	15	31:42	2011
@@ -606,6 +646,7 @@ Eric Eastman	14	25:41	2013
 Eric Maki	48	18:54	2010
 Eric Maki	49	19:13	2011
 Eric Maki	50	18:57	2012
+Eric Peck	 II	20	22:53
 Eric Peck	17	21:35	2011
 Eric Peck	18	20:02	2012
 Eric Peck	19	20:46	2013
@@ -614,6 +655,7 @@ Eric Seamans	14	22:07	2005
 Eric Seamans	15	25:21	2006
 Eric Vanderpool	13	21:21	2005
 Eric Vanderpool	15	20:33	2007
+Eric Varvayanis	16	22:09	2014
 Eric Watson	13	23:39	1998
 Erica Masler	13	27:46	2003
 Erica Rybinski	12	25:49	2001
@@ -622,12 +664,15 @@ Erik Whittelton	15	23:37	1999
 Erin Pavente	26	31:08	2009
 Erin Pavente	27	29:02	2010
 Erin Pavente	29	29:07	2012
+Erin Sill	36	29:30	2014
 Erin Yaichuck	17	20:29	2001
 Ethan Van Houten	14	19:49	2005
 Eugene Forehand	40	34:17	2013
-Evan Henkel	16	23:00	2006
+Evan Henkel	16	23	2006
 Evan Henkel	17	23:12	2007
+Faith Forester	15	34:33	2014
 Faith Forster	14	34:48	2013
+Franky Paetow	16	26:17	2014
 Fred Honnold	61	25:22	2003
 G. Jesse McConnell	16	19:37	2005
 Gabe Short	13	23:55	2012
@@ -640,7 +685,7 @@ Garrett Lockwood	15	22:41	2013
 Gary Bush	39	30:30	2010
 Gary Kenney	31	21:27	2001
 Gary Lund	43	21:04	2001
-Gary Lund	46	22:00	2004
+Gary Lund	46	22	2004
 Gary Lund	47	21:36	2005
 Gary Lund	48	23:21	2006
 Gary Lund	49	26:00	2007
@@ -666,6 +711,7 @@ George Gavras	75	32:01	2001
 George Joseph	59	23:14	2007
 George Montgomery	14	23:43	2008
 Georgiana Perelka	15	23:39	2007
+Gerald Bergenstock	72	26:53	2014
 Geri Tansey	45	26:26	1999
 Gerrit Van Loon	42	26:48	2003
 Gerrit Van Loon	47	21:08	2008
@@ -673,6 +719,7 @@ Gerrit VanLoon	43	22:27	2004
 Glenn Cobb	45	22:26	2009
 Glenn Warner	35	23:43	1999
 Grace Dittman	12	29:37	2012
+Grace Dittman	14	26:06	2014
 Gracie Dittman	13	28:59	2013
 Grahm Gorsline	28	27:27	2011
 Gray Morrison	18	22:48	1999
@@ -694,6 +741,7 @@ Gregg McConnell	42	19:33	2007
 Gregory Peppel	19	28:38	2004
 Gregory Sanders	35	19:54	1998
 Gregory Thane	16	28:40	2000
+Griffin Scarlatta	14	28:28	2014
 Gwen Lennox	14	28:48	1998
 Gwendolyn Claussen	37	34:43	2013
 Hallie Chase	27	38:17	2012
@@ -723,9 +771,11 @@ Holly Hardie	55	34:01	2009
 Holly Hardie	56	29:37	2010
 Holly Hardie	57	30:24	2011
 Holly Hardie	58	32:14	2012
+Holly Hardie	60	33:44	2014
 Holly McMahon	14	27:47	2010
 Hope Kendrick	16	25:48	1999
 Howie Hilsinger	32	23:05	2001
+Hunter Vanalstine	13	32:52	2014
 Ian Daniels	17	22:52	2000
 Iim Strehle	45	25:16	1998
 Jack Carroll	12	22:33	2000
@@ -752,8 +802,9 @@ Jacob Hebdon	15	19:34	2003
 Jacob Hebdon	17	18:36	2005
 Jacob Hebdon	19	17:52	2007
 Jacob Hebdon	20	20:32	2008
-Jacob Hebdon	23	19:00	2011
+Jacob Hebdon	23	19	2011
 Jacob Hebdon	24	20:28	2012
+Jacob Howell	16	27:38	2014
 Jacob Slater	15	22:55	2012
 Jacob van Almelo	14	26:33	2001
 Jacob Van Almelo	15	22:48	2002
@@ -796,12 +847,14 @@ Jamie Saroka	50	27:07	2010
 Jamie Saroka	51	25:56	2011
 Jamie Saroka	52	29:42	2012
 Jamie Saroka	53	29:38	2013
+Jamie Saroka	55	29:39	2014
 Jamie Vanderhoff	16	31:20	2000
 Jane Galvin	39	25:19	2000
 Jane Galvin	40	24:17	2001
 Jared Lewis	16	21:07	2007
 Jared Lewis	17	20:01	2008
 Jared McCormick	38	26:14	2013
+Jared McCormick	39	26:19	2014
 Jasmine Downs-Gillow	14	24:28	1998
 Jasmine Downs-Gillow	16	32:27	2000
 Jasmine Pech	17	23:25	2001
@@ -810,6 +863,7 @@ Jason Jenks	13	23:02	2010
 Jason Jenks	14	18:39	2011
 Jason Jenks	15	18:25	2012
 Jason Jenks	16	17:30	2013
+Jason Jenks	17	19:48	2014
 Jason Kaminskei	16	19:45	1999
 Jason Kaminski	17	18:37	2000
 Jason McCormick	37	48:30	2012
@@ -817,6 +871,7 @@ Jason Phillips	14	19:43	2004
 Jason Phillips	15	19:45	2005
 Jason Phillips	16	18:38	2006
 Jason Phillips	17	18:26	2007
+Jason Salfi	43	24:55	2014
 Jay Dietershagen	18	17:31	1998
 Jay Jackson	41	24:27	2012
 Jeanne Mitchell	41	27:00	2000
@@ -831,6 +886,7 @@ Jeff Roblyer	14	24:15	2011
 Jeffery Cronk	43	25:06	2011
 Jeffrey Cronk	44	23:29	2012
 Jeffrey Cronk	45	21:29	2013
+Jeffrey Cronk	46	22:15	2014
 Jeffrey Juran	48	18:28	2005
 Jeffrey Naylor	42	17:54	2012
 Jeffrey Roblyer	15	22:46	2012
@@ -843,6 +899,7 @@ Jena Kimpel	16	23:55	2007
 Jenn Alford	27	27:38	2001
 Jenn Alford	33	39:50	2007
 Jenna Baker	17	34:44	2009
+Jenna Federation	16	30:57	2014
 Jennifer Alford	26	27:10	2000
 Jennifer Casterline	39	24:04	2012
 Jennifer Hamilton	39	33:02	2012
@@ -876,9 +933,11 @@ Jerry Smith	59	25:15	2006
 Jerry Smith	60	26:53	2007
 Jerry Smith	65	29:09	2012
 Jerry Smith	66	30:16	2013
+Jerry Smith	67	35:54	2014
 Jess Hunter	17	28:40	2007
 Jesse McConnell	17	17:57	2006
 Jesse Wixson	27	23:12	2008
+Jessica Davis	34	43:58	2014
 Jessica Hunter	16	28:33	2006
 Jessica Kennett	38	27:12	2013
 Jessica Malarkey	14	28:21	2000
@@ -911,6 +970,7 @@ Jim Strehle	50	22:53	2003
 Jim Usack	42	21:31	2001
 Jimmy Nunciato	16	23:37	2002
 Jimmy Nunciato	17	22:08	2003
+Joan Downs	60	37:47	2014
 Joan Koral	40	30:14	2006
 Joan Koral	42	25:05	2008
 Joan Koral	45	26:54	2011
@@ -925,6 +985,7 @@ Joanne Dabulewicz	57	36:19	2010
 Joanne Dabulewicz	58	36:40	2011
 Joanne Dabulewicz	59	36:35	2012
 Joanne Dabulewicz	60	36:22	2013
+Joanne Dabulewicz	61	36:54	2014
 Joanne Dubulewicz	45	29:29	1998
 Jocelyn Wilczynski	19	23:02	1998
 Jodie Whittle	30	27:47	1999
@@ -939,6 +1000,7 @@ Joel Brock	49	25:57	2008
 Joel Brock	51	26:52	2010
 Joel Brock	52	26:24	2011
 Joel Brock	53	26:07	2012
+Joel Brock	55	29:38	2014
 Joel Twitchell	13	26:40	2008
 Joel Twitchell	14	24:07	2009
 Joel Twitchell	15	23:03	2010
@@ -956,13 +1018,16 @@ John Brenner	48	27:59	2012
 John Brenner	49	29:40	2013
 John Condron	45	30:17	2002
 John Condron	46	30:33	2003
+John D'Antonio	23	21:59	2000
+John D'Antanio	24	22:08	2001
 John D'Antonio	25	21:34	2002
 John D'Antonio	28	25:29	2005
 John D'Antonio	29	24:51	2006
 John D'Antonio	31	28:29	2008
 John D'Antonio	32	25:38	2009
 John D'Antonio	33	29:02	2010
-John Diantonio	38	22:55	2012
+John D'Antonio	38	22:55	2012
+John D'Antonio	37	23:50	2014
 John Dutcher	42	26:35	2001
 John Dutcher	43	27:16	2002
 John Dutcher	45	29:12	2003
@@ -974,6 +1039,7 @@ John Dutcher	49	27:29	2008
 John Dutcher	50	29:12	2009
 John Dutcher	51	26:58	2010
 John Dutcher	52	28:53	2011
+John Dutcher	55	28:35	2014
 John Fausold	10	23:05	2005
 John Ferrini	46	20:15	2010
 John Glass	31	21:45	1998
@@ -1010,8 +1076,6 @@ John Sobol	42	30:57	2000
 John Sobol	43	32:22	2001
 John Spallone	54	32:44	2005
 Johnathan Wasson	16	24:45	2011
-Johnny D'Antanio	24	22:08	2001
-Johnny D'Antonio	23	21:59	2000
 Jon Cleveland	15	18:31	2007
 Jon Keagle	47	29:22	2000
 Jon Schiefen	17	19:52	2007
@@ -1047,6 +1111,7 @@ Josh Jacobson	13	23:38	2005
 Josh Langley	15	20:46	2009
 Josh Langley	18	18:27	2012
 Josh Marlette	17	21:48	2013
+Josh Miller	36	25:35	2014
 Josh Sherwood	16	22:26	2005
 Joshua Hamelin	15	22:17	2009
 Joshua Hildreth	12	20:26	1999
@@ -1061,15 +1126,19 @@ Julie Azzolina	36	28:07	2007
 Julie Barclay	38	21:40	2011
 Julie Barclay	39	21:43	2012
 Julie Barclay	40	21:36	2013
+Julie Barclay	41	33:06	2014
+Julie Whitten	36	35:37	2014
 Justin Crain	17	17:57	2000
 Justin Gogan	16	20:04	2008
 Justin Martin	11	25:55	2000
+Justin Scheidweiler	13	32:42	2014
 Justin Tinelli	17	26:00	2012
 Justin VanAlmelo	15	23:32	1998
 Justin VanAlmelo	16	23:23	1999
 Justin VanAlmelo	17	21:41	2000
 Justina Conner	17	28:41	2007
 Kade Eldred	10	29:17	2012
+Kadie Salfi	42	34:41	2014
 Kai Blaisdell	28	25:13	2003
 Kaillin Clark	14	25:52	1998
 Kaitlin McGrath	16	36:24	2004
@@ -1080,6 +1149,7 @@ Karen Adams	29	30:17	2002
 Karen Grover	31	24:47	2001
 Karen Grover	32	22:44	2002
 Karen Grover	34	21:57	2004
+Karen LaFace	48	35:41	2014
 Karen Lauancha	33	30:23	2011
 Karen O'Konsky	21	36:37	2008
 Karen Shepherd	44	30:19	2009
@@ -1088,12 +1158,17 @@ Kari Gallow	16	23:59	2001
 Karl Czymmek	49	22:51	2011
 Karl Czymmek	50	22:22	2012
 Karla Rimmer	29	28:32	2002
+Katheryn O'Konsky	15	23:36	2000
+Katheryn O'Konsky	16	25:24	2001
+Katheryn O'Konsky	17	22:57	2002
+Katheryn O'Konsky	18	21:34	2003
 Katheryn O'Konsky	21	25:14	2006
 Katheryn O'Konsky	22	25:41	2007
-Katheryn Okonsky	28	24:20	2013
+Katheryn O'Konsky	28	24:20	2013
 Kathi Radcliffe	17	30:07	2000
 Kathi Sovocool	54	41:30	2013
 Kathleen DeLucia	44	43:05	2009
+Kathryn Rhinehart	30	36:25	2014
 Kathryn Shaw	16	21:40	2009
 Kathy Dexter	67	44:30	2013
 Kathy Fairand	41	29:53	2004
@@ -1111,10 +1186,6 @@ Katie Gray	13	27:01	2008
 Katie Kohlberger	17	24:14	1998
 Katie Lann	16	33:00	2007
 Katie Leech	12	25:20	1999
-Katie O'Konskey	16	25:24	2001
-Katie O'Konsky	17	22:57	2002
-Katie O'Konsky	18	21:34	2003
-Katie Okonsky	15	23:36	2000
 Katrina Burkgren	14	35:57	2002
 KC Bennett	53	28:05	2012
 Keil Holmstrom	16	22:37	2001
@@ -1129,6 +1200,7 @@ Keith Eggleston	49	22:36	2009
 Keith Eggleston	50	21:05	2010
 Keith Eggleston	52	20:29	2012
 Keith Eggleston	53	19:55	2013
+Keith Eggleston	54	19:53	2014
 Keith Roneker	14	25:56	2000
 Keith Roneker	15	21:32	2001
 Keith Roneker	16	21:33	2002
@@ -1137,6 +1209,7 @@ Kellsey Elliot	15	29:55	2007
 Kelly Doud	14	26:03	2007
 Kelsey Foote	14	27:02	2007
 Kelsie Hamelin	16	26:29	2010
+Kelvin Green	16	20:30	2014
 Ken Rybinski	17	19:23	2003
 Ken Steirer	54	24:39	1998
 Kendra Stenger	16	26:28	2007
@@ -1146,6 +1219,7 @@ Kenny Tallman	15	27:32	2012
 Kent Burkley	16	23:50	1999
 Kent Eldred	41	27:21	2012
 Keri Lee	34	36:29	2011
+Kevin Bahr	50	30:17	2014
 Kevin Bishop	41	21:20	2003
 Kevin Bishop	42	22:05	2004
 Kevin Bradascio	18	26:09	2008
@@ -1178,6 +1252,7 @@ Kirk Dorton	17	18:03	1999
 Kirk Peters	57	25:58	2011
 Korissa Kinney	14	28:48	2012
 Korissa Kinney	15	30:32	2013
+Kristen Casterline	34	33:30	2014
 Kristen Kneer	33	24:30	2002
 Kurtis Reynolds	13	20:48	2012
 Kyle Eggleston	12	30:55	2001
@@ -1237,9 +1312,11 @@ Laurie Collingsworth	52	35:05	2013
 Laurie Patten	41	33:17	2003
 Lea Field	17	28:00	1999
 Leah Forehand	14	27:59	2013
+Leah Forehand	15	24:54	2014
 Les Buchanan	39	23:14	2002
 Les Buchanan	39	22:40	2003
 Les Buchanan	44	27:13	2007
+Leslie Zolnik	32	29:46	2014
 Letusha Buchanan	16	24:12	1999
 Lezlie Kennedy	33	41:24	1998
 Lilly McCormick	10	30:45	2012
@@ -1275,6 +1352,7 @@ Luke Lauchle	15	25:00	2012
 Luke Lauchle	16	24:14	2013
 Luke Pamel	24	32:42	2010
 Luke Pamel	25	30:42	2011
+Luke Varvayanis	12	24:19	2014
 Lynn Benedetto	46	28:46	2012
 Lynn Swisher	46	35:43	2003
 Lynn Usack	43	22:43	2006
@@ -1309,6 +1387,7 @@ Marilyn Miller	60	32:59	2002
 Marilyn Miller	61	34:13	2003
 Marissa Cronk	12	33:10	2012
 Marissa Cronk	14	28:26	2013
+Marissa Cronk	15	28:34	2014
 Marissa Eccleston	16	23:20	2006
 Marissa Noe	15	26:18	2009
 Marissa Noe	16	30:18	2010
@@ -1322,11 +1401,13 @@ Mark Garrow	18	18:44	1998
 Mark Masler	43	21:06	2003
 Mark Peters	49	22:51	2006
 Mark Peters	50	39:48	2007
+Mark Peters	57	26:25	2014
 Mark Rybinski	46	17:48	2001
 Mark Rybinski	47	18:18	2002
 Mark Vallely	42	24:18	2001
 Mark Vidulich	14	21:55	2006
 Mark Vidulich	16	21:52	2008
+Marlin Houston	40	25:52	2014
 Marsha Durbin	36	33:19	2000
 Marsha Durbin	37	33:42	2001
 Marsha Durbin	38	31:15	2002
@@ -1338,12 +1419,13 @@ Martina Larsson	10	24:18	2005
 Mary Franchi	16	25:10	2003
 Mary Prince	16	31:23	2001
 MaryEllen Eccles	42	30:44	1999
+Mathew Forester	14	29:05	2014
 Matt Crough	11	22:28	2006
 Matt Crough	13	23:49	2008
 Matt Crough	14	20:40	2009
-Matt Crough	15	20:00	2010
+Matt Crough	15	20	2010
 Matt Crough	16	18:45	2011
-Matt Crough	17	19:00	2012
+Matt Crough	17	19	2012
 Matt Gill	12	24:21	2008
 Matt Gill	14	20:15	2010
 Matt Hebdon	13	22:39	1999
@@ -1411,21 +1493,26 @@ Michael L. Bartos	17	25:42	2001
 Michael Lapar	12	32:17	2012
 Michael Leonard	37	19:31	2000
 Michael Leonard	38	18:04	2001
+Michael Leonard	51	20:41	2014
 Michael O'Donnell	17	22:32	2008
 Michael Perkins	13	26:39	2011
-"Michael Sickmon, II"	15	23:31	2008
+Michael Roberts	33	17:30	2014
+Michael Sickmon, II	15	23:31	2008
 Michael Tenkate	28	29:46	2004
 Michael Terwilliger	58	24:07	2013
 Michael Wyckoff	51	21:15	2010
 Michael Wyckoff	52	21:12	2011
 Michaela Dunham	16	27:46	2012
 Michaela Dunham	17	28:23	2013
+Michele Westfall	29	38:28	2014
 Michelle Eastman	42	26:24	2009
 Michelle Eastman	43	25:02	2010
 Michelle Eastman	44	25:16	2011
 Michelle Eastman	45	25:06	2012
 Michelle Eastman	46	27:48	2013
+Michelle Eastman	47	27:37	2014
 Michelle Franklin	29	18:50	1998
+Michelle Windsor	29	33:03	2014
 Miguel Maldonado	14	23:24	2006
 Miguel Maldonado	17	21:42	2009
 Mikayla Perkins	15	33:40	2011
@@ -1453,6 +1540,7 @@ Mike Terwilliger	54	22:54	2009
 Mike Terwilliger	55	22:50	2010
 Mike Terwilliger	56	25:18	2011
 Mike Terwilliger	57	25:18	2012
+Mike Terwilliger	59	25:22	2014
 Mikhail Kern	14	21:02	2005
 Mikhail Kern	15	19:09	2006
 Mikhail Kern	16	18:57	2007
@@ -1460,8 +1548,11 @@ Mikhail Kern	17	18:56	2008
 Mitch Collingsworth	54	27:36	2013
 Mitchell Pesesky	13	23:13	2001
 Monica Moore	16	30:18	2007
+Monica Sherman	32	29:45	2014
+Morgan Dittman	12	29:49	2014
 Morgan Edwards	9	45:27	2011
 Morgan Greene	9	31:19	2003
+Morningstar Fowler	17	21:01	2014
 Murphee Hayes	30	19:32	2004
 Murphee Hayes	31	19:04	2005
 Murphee Hayes	32	18:46	2006
@@ -1488,6 +1579,7 @@ Nancy Tisch	47	34:08	2004
 Naomi Pierce	16	29:11	2009
 Natale Dabulewicz	22	27:53	2012
 Natale Dabulewicz	23	29:10	2013
+Natale Dabulewicz	24	28:59	2014
 Natalie Mackenzie	29	19:47	2010
 Natalie Usack	11	28:49	2000
 Natalie Usack	12	23:28	2001
@@ -1499,7 +1591,7 @@ Nate Muka	15	23:34	2008
 Nathan Collingsworth	12	27:35	2013
 Nathan Connelly	16	23:22	2002
 Nathan Connelly	17	21:10	2003
-Nathan Connely	14	22:00	2000
+Nathan Connely	14	22	2000
 Nathan Forehand	24	31:26	2013
 Nathan Greene	9	26:30	2001
 Nathan Greene	10	24:39	2002
@@ -1541,6 +1633,7 @@ Norman Tracy Jr	18	22:01	2002
 Olivia Hoyt	13	30:55	2010
 Olivia Longhouse	12	25:37	2011
 Olivia Longhouse	13	25:07	2012
+Orry Ostrander	37	21:18	2014
 Otis Jackson	12	33:08	2009
 Otis Jackson	13	33:27	2010
 Owen Kay	13	22:23	2007
@@ -1581,7 +1674,9 @@ Patrick Schiefen	16	19:31	2005
 Patrika Crawford	44	28:58	2000
 Patt Joseph	55	38:24	2011
 Patt Joseph	56	37:27	2012
+Patt Joseph	58	38:42	2014
 Paul Ballard	31	28:36	2000
+Paul Dittman	46	32:22	2014
 Paul Hamlin	57	27:32	2007
 Paul Hamlin	58	25:20	2008
 Paul Kempkes	47	21:10	2009
@@ -1601,16 +1696,19 @@ Peggy Dunham	47	31:54	2010
 Peggy Dunham	48	32:54	2011
 Peggy Dunham	49	31:29	2012
 Peggy Dunham	50	33:03	2013
+Peggy Dunham	51	34:38	2014
 Penny O'Leary	52	38:24	2011
 Penny Stevens	44	33:04	2003
 Penny Westbrook	53	31:57	2012
 Peter Dugan	36	36:12	2004
+Peter Graney	13	29:38	2014
 Peter Salton	49	37:02	2005
 Peter Salton	50	29:11	2006
 Peter Salton	52	28:46	2008
 Phil Abbott	15	18:49	2003
 Phil Williammee	31	25:11	2003
 Philipp Rehpenning	17	25:11	2003
+Quentin Getzin	6	35:39	2014
 Rachel Brock	14	26:37	2010
 Rachel Brock	15	28:52	2011
 Rachel Brock	16	24:59	2012
@@ -1641,6 +1739,7 @@ Reid Bush	14	23:51	2010
 Reid Bush	15	21:41	2011
 Reid Bush	16	21:46	2012
 Reid Bush	17	22:02	2013
+Reid Bush	18	24:08	2014
 Rena Moore	22	28:07	2008
 Rena Moore	25	25:05	2011
 Renee Fives	38	30:25	2001
@@ -1659,15 +1758,17 @@ Richard Moore	11	27:55	2010
 Richard Moore	12	28:12	2011
 Richard Moore	13	25:34	2012
 Richard Moore	14	24:02	2013
+Richard Moore	15	21:50	2014
 Rick Browning	45	18:27	2006
 Rick Cicciarelli	34	24:00	2012
 Rick Gooshan	50	20:06	2011
 Rick Gooshaw	44	25:16	2005
 Rick Gooshaw	45	20:12	2006
-Rick Gooshaw	46	20:00	2007
+Rick Gooshaw	46	20	2007
 Rick Gooshaw	47	20:48	2008
 Rick Gooshaw	49	20:20	2010
 Rita Leubner	49	56:33	1998
+Rob Casterline	43	25:21	2014
 Rob Winkky	30	17:53	2008
 Rob Winkky	31	17:28	2009
 Robert Dunham	15	20:42	2008
@@ -1675,9 +1776,11 @@ Robert Dunham	16	18:42	2009
 Robert Dunham	17	18:49	2010
 Robert Dunham	18	18:05	2011
 Robert Dunham	20	17:30	2013
+Robert Dunham	21	17:33	2014
 Robert Gambitta	44	21:24	2010
 Robert Haas	50	20:19	2010
 Robert Haas	51	20:01	2011
+Robert Haas	54	21:03	2014
 Robert Holowka	10	23:42	2001
 Robert Kern	63	25:44	2012
 Robert McGlenn	15	21:12	2002
@@ -1764,6 +1867,7 @@ Sarah Bryant	17	25:34	2011
 Sarah Danner	17	22:50	2010
 Sarah Grant	16	30:14	2011
 Sarah Hayes	35	28:18	2013
+Sarah Hayes	36	31:28	2014
 Sarah Orlowski	32	34:26	2012
 Sarah Palmer	12	26:56	2004
 Sarah Palmer	13	22:46	2005
@@ -1773,6 +1877,7 @@ Sarah Palmer	16	21:53	2008
 Sarah Posegate	26	26:16	2003
 Sarah Whittelton	20	31:03	1999
 Sayer Samantha	16	21:12	2012
+Scott Chisholm	34	24:46	2014
 Scott Hopkins	39	22:33	1998
 Scott Jackson	41	23:09	2010
 Scott Martin	42	24:05	2000
@@ -1783,6 +1888,7 @@ Scotty Buchanan	35	20:44	2002
 Sean Iddings	18	20:50	2005
 Sean McCabe	16	22:58	2006
 Seth Tucker	17	19:31	2003
+Shaina Sullivan	17	29:33	2014
 Shana Snyder	33	42:28	2012
 Shane Hradisky	11	27:56	2009
 Shania Vanorder	16	29:56	2010
@@ -1815,12 +1921,13 @@ Skip Hardie	56	27:59	2007
 Skip Hardie	58	26:57	2009
 Skip Hardie	60	27:28	2011
 Skip Hardie	61	27:35	2012
+Skip Hardie	63	26:52	2014
 Skip Strobel	29	17:16	2000
 Skip Strobel	30	17:21	2001
 Skip Strobel	31	17:49	2002
 Skip Strobel	32	25:43	2003
 Skip Strobel	34	19:27	2005
-Skip Strobel	35	19:00	2006
+Skip Strobel	35	19	2006
 Skip Strobel	36	26:10	2007
 Somer Pettet	15	23:16	2007
 Somer Pettet	15	20:44	2008
@@ -1830,6 +1937,7 @@ Sophia Darling	28	32:14	2003
 Sophia Darling	36	25:19	2011
 Sophia Darling	37	27:53	2012
 Sophia Darling	38	27:12	2013
+Sophia Darling	39	27:18	2014
 Spencer Hill	35	25:54	2000
 Stan Pamel	50	27:43	2009
 Stan Pamel	51	27:54	2010
@@ -1870,6 +1978,7 @@ Steven Craft	45	28:35	2010
 Steven Craft	46	29:55	2011
 Steven Craft	47	29:25	2012
 Steven Craft	48	30:40	2013
+Steven Craft	49	32:41	2014
 Steven Folsom	33	17:22	2012
 Steven Gallow	38	23:09	1998
 Steven Gallow	39	22:45	1999
@@ -1886,6 +1995,7 @@ Steven Gallow	50	26:34	2010
 Steven Gallow	51	26:14	2011
 Steven Gallow	52	27:23	2012
 Steven Gallow	53	30:11	2013
+Steven Gallow	54	29:40	2014
 Steven Good	17	24:00	2006
 Steven Kern	53	28:40	2006
 Steven Kern	54	32:47	2007
@@ -1902,6 +2012,7 @@ Susan Brock	48	30:52	2008
 Susan Brock	49	29:13	2009
 Susan Brock	50	29:27	2010
 Susan Brock	52	28:03	2012
+Susan Brock	54	30:36	2014
 Susan Eggleston	47	37:06	2008
 Susan Eggleston	48	43:05	2009
 Susan Eggleston	49	42:24	2010
@@ -1937,6 +2048,7 @@ Taylor McIntyre	15	29:50	2012
 Taylor Perosio	11	24:17	2008
 Taylor Perosio	13	24:15	2010
 Taylor Spafford	17	46:40	2009
+Teaghan Murphy	13	33:13	2014
 Teddy Brenner	9	24:12	2012
 Teddy Brenner	10	24:24	2013
 Terence Foley	25	21:55	2010
@@ -1944,7 +2056,7 @@ Teresa Haight	46	36:14	2010
 Terri Lauchle	39	25:40	2007
 Terry Mattice	52	27:02	2011
 Thad Schug	31	21:42	1998
-Thad Shug	32	19:44	1999
+Thad Schug	32	19:44	1999
 Thaisa Way	43	23:04	2003
 Theo Moore	10	28:15	2004
 Theo Moore	11	27:23	2005
@@ -1973,19 +2085,23 @@ Thomas Connor	11	23:01	2003
 Thomas Hamlin	62	25:42	2008
 Thomas Hamlin	64	35:31	2010
 Thomas Mullins	44	19:25	2012
-Thomas O'Brien	15	23:42	1998
+Tom O'Brien	15	23:42	1998
+Thomas O'Brien	43	26:51	1998
+Thomas O'Brien	44	27:26	1999
 Thomas O'Brien	45	27:49	2000
 Thomas O'Brien	47	26:08	2002
 Thomas O'Brien	48	29:12	2003
 Thomas O'Brien	49	30:05	2004
+Thomas O'Brien	50	30:57	2005
 Thomas O'Brien	51	31:30	2006
 Thomas O'Brien	52	32:00	2007
 Thomas Sroczynski	64	28:24	2009
+Thomas Sroczynski	69	38:03	2014
 Thomas Williams	49	21:55	2004
 Thomas Williams	50	22:15	2005
 Thomas Williams	52	21:04	2007
-Thoms O'Brien	43	26:51	1998
 Tim Buckley	45	27:54	2012
+Tim Buckley	47	33:44	2014
 Tim Hanna	40	23:24	1999
 Tim Ingall	41	18:52	2000
 Tim Ryan	42	25:19	2009
@@ -1996,6 +2112,7 @@ Timothy Shea	17	20:28	2007
 Timothy Solcum	17	21:41	1999
 Timothy Sullivan	12	25:55	2006
 Timothy Walsh	17	18:37	2010
+Tina Forester	50	46:10	2014
 Tina Forster	49	40:32	2013
 Toby Dornton	14	19:25	1998
 Toby Dorton	15	19:55	1999
@@ -2003,6 +2120,7 @@ Todd Ludden	27	18:18	2008
 Todd Mallinson	49	22:36	2009
 Todd Mallinson	50	22:25	2010
 Todd Robertson	35	23:18	2010
+Tom Buckley	14	31:03	2014
 Tom Daly	56	22:59	2010
 Tom Eickelberg	24	17:16	2013
 Tom Grant	41	18:20	1999
@@ -2012,8 +2130,6 @@ Tom Hamlin	60	31:59	2006
 Tom Hamlin	61	28:51	2007
 Tom Hamlin	63	27:22	2009
 Tom Harshorne	45	18:06	1999
-Tom O'Brien	44	27:26	1999
-Tom O'Brien	50	30:57	2005
 Tom Sroczynski	62	26:07	2007
 Tom Sroczynski	63	28:14	2008
 Tom Sroczynski	65	32:20	2010
@@ -2028,6 +2144,7 @@ Tony Ciccone	51	24:04	1999
 Tony Magnosi	48	29:47	2013
 Tony Roblyer	41	26:46	2010
 Tony Roblyt	42	27:56	2011
+Tor Wildenstein	16	20:57	2014
 Tori Woodard	15	24:26	2010
 Tori Woodard	16	23:06	2011
 Tracey Hartnett	43	24:25	2005
@@ -2040,10 +2157,12 @@ Tristan Engst	11	27:34	2010
 Tristan Nevins	14	31:22	2012
 Triston Engst	12	26:57	2011
 Troy Meddaugh	14	28:11	2010
+Tyler Banfield	15	26:08	2014
 Tyler Dasilva	16	20:32	2010
 Tyler Hathaway	14	23:45	2006
 Ulana Holubec	35	26:55	2001
 Val Robbins	51	35:34	2000
+Valerie Kelly	37	36:25	2014
 Vanessa Palumbo	17	25:31	2007
 Vaughn Neild	27	22:33	1999
 Vicki Brous	38	25:51	2012
@@ -2058,6 +2177,7 @@ Walter Iddings	53	21:21	2013
 Wayne Dunham	49	32:20	2011
 Wayne Dunham	50	37:12	2012
 Wayne Dunham	51	29:59	2013
+Wayne Dunham	52	33:02	2014
 Wayne Hampton	52	23:54	1998
 Wayne Hampton	53	24:16	1999
 Wayne Janke	38	20:23	1999
@@ -2072,6 +2192,7 @@ Will Stoughton	16	24:02	2012
 Will Stoughton	17	22:39	2013
 Will Troy	12	21:23	2003
 William Batzer	16	27:26	2013
+William Batzer	17	25:42	2014
 William Fatout	62	41:13	2013
 William Howell	57	23:27	2004
 William Krichbaum	34	23:50	2001
@@ -2091,8 +2212,10 @@ Zachary Dvornicky	16	22:33	2010
 Zachary Forrester	15	23:39	2010
 Zachary Schrock	12	24:19	2004
 Zacherie Boutoille	16	27:48	2008
+Zachery Redfield	14	25:55	2014
 Zachory Dvornicky	13	26:02	2007
 Zack Schrock	14	22:58	2006
+Zoe Barclay	12	33:06	2014
 Zsofia Franck	48	23:27	2001
 Zsofia Franck	49	22:40	2002
 Zsofia Franck	56	22:35	2008
