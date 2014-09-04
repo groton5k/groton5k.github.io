@@ -7,7 +7,7 @@
 	<link rel="stylesheet" type="text/css" href="groton5k.css" />
 	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.11.0/jquery-ui.min.js"></script>
-	<script type="text/javascript" src="jquery.slides.min.js"></script>
+	<script type="text/javascript" src="jquery.cycle2.min.js"></script>
 	<script>
 		function makeTable (results) {
 			/* Convert tab-delimited results into a table. 
@@ -86,22 +86,6 @@
 				active: 0,
 				heightStyle: "content"
 			});
-			$("#homeSlides").slidesjs({
-				width: 379,
-				height: 182,
-				pagination: {
-					active: false
-				},
-				navigation: {
-					active: false
-				},
-				play: {
-					active: false,
-					interval: 3000,
-					auto: true,
-					pauseOnHover: true
-				}
-			});
 			/* Setup name search interface under results. */
 			var defaultSrchStr = "Enter all or part of a name";
 			$("#srchStr").val(defaultSrchStr).addClass("lightgray").on({
@@ -158,12 +142,13 @@
 			<li><a href="#awards">Awards</a></li>
 			<li><a href="#records">Records</a></li>
 			<li><a href="#results">Results</a></li>
+			<li><a href="#photos">Photos</a></li>
 			<li><a href="#trivia">Trivia</a></li>
 		</ul>
 
 		<div id="home">
+			<h3>17th Annual Groton Labor Day 5K and 1 Mile Fun Run</h3>
 			<div class="twocols">
-				<h3>17th Annual Groton Labor Day 5K and 1 Mile Fun Run</h3>
 				<span><b>When: </b>September 1, 2014</span>
 				<p><b>Where: </b>Groton High School, 400 Peru Rd, Groton, NY</p>
 				<table>
@@ -176,10 +161,13 @@
 				<br /><span>Parking, restrooms and showers will be available near registration
 				outside the high school gym. Post race refreshments.</span></p>
 			</div>
-			<div id="homeSlides" class="twocols centerCol">
-				<img src="photos/5k_sticker3.png" alt="Race Photo" />
-				<img src="photos/start3.jpg" alt="Race Photo" />
-				<img src="photos/funrun3.jpg" alt="Race Photo" />
+				<div class="cycle-slideshow twocols centerCol" 
+				 data-cycle-fx="scrollHorz"
+   				 data-cycle-pause-on-hover="true"
+				 data-cycle-speed="300">
+					<img src="photos/5k_sticker3.png" alt="Race Photo" />
+					<img src="photos/start3.jpg" alt="Race Photo" />
+					<img src="photos/funrun3.jpg" alt="Race Photo" />
 			</div>
 			<div class="clear">
 				<p class="subtext">This race is sponsored by, and is a fund raiser for the  
@@ -191,6 +179,8 @@
 
 		<div id="register">
 			<h4>Registration</h4>
+			<p>2015 registration information will be posted when available.</p>
+			<!--
 			<p>Entry fee for those pre-registered prior to August 23 will be $14 for 
 			students and $18 for adults. The 1 mile Fun Run is free.</p>
 			<p>Registrations received after August 23 (August 29 online) and race day will 
@@ -206,6 +196,7 @@
 			<p><a href="application2014.pdf">
 			Print a paper copy of the entry form  
 			<img src="pdf.jpg" class="regimg" alt="PDF" /></a></p>
+			-->
 		</div>
 
 		<div id="course">
@@ -319,6 +310,12 @@
 				<img src="http://insatiably.files.wordpress.com/2012/06/running-inspiration-8.jpg" alt="results" />
 			</div>
 			<div class="clear"></div>
+		</div>
+
+		<div id="photos">
+			<h4>Photos</h4>
+			<p>Coming soon
+			</p>
 		</div>
 
 		<div id="trivia">
