@@ -1,4 +1,4 @@
-Top 10 - 60 and over Male (1998-2013)			
+Top 10 - 60 and over Male (1998-2014)			
 Name	Age	Time	Year
 Carl Franck	60	21:58	2012
 Carl Franck	61	22:52	2013
@@ -8,5 +8,6 @@ Chuck Collins	68	23:23	2002
 Al Wruck	66	23:26	2011
 Bill Howell	65	23:53	2012
 Al Wruck	65	23:57	2010
+Carl Franck	62	24:16	2014
 Michael Anderson	62	24:21	2010
 Robert Miesner	62	24:32	2005
