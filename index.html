@@ -42,7 +42,7 @@
 				filenames = $this.data("filenames").split(",");
 			$(where).empty().hide();
 			for (i = 0; i < filenames.length; i += 1) {
-				$.get(filenames[i], function (results) {
+				$.get("data/" + filenames[i], function (results) {
 					$(where).append(makeTable(results)).find("table").addClass("resultsTable");
 				}, "text");
 			}
@@ -56,7 +56,7 @@
 			   Put results in the resultsArea div defined in this tab. */
 			var searchString = $("#srchStr").val().toLowerCase(),
 				where = $this.parents("div.ui-tabs-panel").find(".resultsArea");
-			$.get("all.txt", function (content) {
+			$.get("data/all.txt", function (content) {
 				var i, name, lines = content.split("\n"), matches = [];
 				for (i = 1; i < lines.length; i += 1) {
 					name = lines[i].split("\t")[0].toLowerCase();
@@ -196,10 +196,10 @@
 			Send order with application. Quantities are limited!</p>
 			<p><a href="https://www.getentered.com/Register/?event=26770" target="_blank">
 			Register online at GetEntered.com
-			<img src="GetEntered.jpg" class="regimg" alt="GetEntered" /></a></p>
+			<img src="images/GetEntered.jpg" class="regimg" alt="GetEntered" /></a></p>
 			<p><a href="application2014.pdf">
 			Print a paper copy of the entry form  
-			<img src="pdf.jpg" class="regimg" alt="PDF" /></a></p>
+			<img src="images/pdf.jpg" class="regimg" alt="PDF" /></a></p>
 			-->
 		</div>
 
@@ -286,9 +286,9 @@
 					<option value="http://leonetiming.com/2003/Roads/Groton03.txt">2003</option>
 					<option value="http://leonetiming.com/2002/Roads/Groton02.htm">2002</option>
 					<option value="http://leonetiming.com/2001/groton01.htm">2001</option>
-					<option value="Results2000.txt">2000</option>
-					<option value="Results1999.txt">1999</option>
-					<option value="Results1998.txt">1998</option>
+					<option value="data/Results2000.txt">2000</option>
+					<option value="data/Results1999.txt">1999</option>
+					<option value="data/Results1998.txt">1998</option>
 				</select></p>
 				<p>Search all results by name: <input type="text" id="srchStr" size="28" />
 				<button id="searchresults" class="ui-helper-hidden">Search</button></p>
