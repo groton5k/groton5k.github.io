@@ -37,7 +37,7 @@
 		}
 		function buildTables($this) {
 			/* Convert the files defined by an array of file names (in data-filenames portion of $this)
-			   into tables. Put results in the resultsArea div defined in this tab. */
+			   into tables. Put results in the resultsArea div defined in this tab. Files are in data directory. */
 			var i, where = $this.parents("div.ui-tabs-panel").find(".resultsArea"),
 				filenames = $this.data("filenames").split(",");
 			$(where).empty().hide();
