@@ -1,5 +1,6 @@
-Best Times by Age (1998-2014)
+Best Times by Age (1998-2015)
 Age	Name	Time	Year
+6	Leah Lepinnet	37:00	2015
 7	Clara Karastury-Duga	36:12	2004
 8	Anna Deitcher	39:49	2007
 9	Anna Deitcher	30:04	2008

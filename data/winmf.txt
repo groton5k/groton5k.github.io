@@ -17,4 +17,5 @@ Year	Name	Age	Time
 2012	Caroline Rasmussen	54	24:27
 2013	Zsofia Franck *	60	25:35
 2014	Caroline Rasmussen	56	25:24
+2015	Nancy Kleinrock *	55	21:56
 * - Overall winner was also Masters age.

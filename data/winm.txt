@@ -17,3 +17,4 @@ Year	Name	Age	Time
 2012	Adam Engst	44	17:03
 2013	Tom Eickelberg	24	17:16
 2014	Michael Roberts	33	17:30
+2015	Dave Slater	31	18:11
