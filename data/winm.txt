@@ -18,3 +18,4 @@ Year	Name	Age	Time
 2013	Tom Eickelberg	24	17:16
 2014	Michael Roberts	33	17:30
 2015	Dave Slater	31	18:11
+2016	Mikhail Kern	25	17:10

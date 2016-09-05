@@ -18,3 +18,4 @@ Year	Name	Age	Time
 2013	Julie Barclay	40	21:36
 2014	Abbey Yatsko	16	23:08
 2015	Stephanie Gardner	43	21:14
+2016	Stephanie Gardner	44	20:29

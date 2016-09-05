@@ -18,4 +18,5 @@ Year	Name	Age	Time
 2013	Zsofia Franck *	60	25:35
 2014	Caroline Rasmussen	56	25:24
 2015	Nancy Kleinrock *	55	21:56
+2016	Debra Federation	46	25:42
 * - Overall winner was also Masters age.
