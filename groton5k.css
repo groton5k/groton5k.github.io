@@ -57,7 +57,7 @@ div.resultsCol ul {
 	margin-top: 0.5em;
 	padding-left: 1em; }
 #resultsFrame {
-	height:100%; width:100%; }
+	height:400px; width:100%; }
 #results p {
 	margin-bottom: 1.5em; }
 .centerTable:first-child {

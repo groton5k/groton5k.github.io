@@ -104,10 +104,15 @@
 		});
 		$("#selectedYr").on("change", function () {
 			var where = $(this).parents("div.sectiondiv").find(".resultsArea"),
-				prefix = $(this).val().search('htm') >= 0 ? "" : "<pre>";
-			$.get($(this).val(), function(results) {
-				$(where).empty().html(prefix + results);
-			});
+				needframe = $(this).val().search('leonetiming.com') >= 0;
+			if (!needframe) {
+				$.get($(this).val(), function(results) {
+					$(where).empty().html("<pre>" + results);
+				});
+			} else {
+				$(where).empty().html("<iframe id='resultsFrame'><\/iframe>");
+				$("#resultsFrame").attr('src', $(this).val());
+			}
 		});
 		/* Allow return to trigger name search. */
 		$("#srchStr").on("keypress", function (e) {
