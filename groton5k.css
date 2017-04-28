@@ -1,22 +1,13 @@
-/* initial display; no Javascript */
-#tabs { 
-	display: none; }
-.nojs { 
-	display: block; }
-
-
-.ui-widget {
-	font-size: 0.9em; }
-.ui-tab-panel {
-	padding: 1em 1em; }
-h1, h3 {
+h1, h3, h4 {
 	color:red; }
 h4 {
-	margin-top:1em; }
+	margin:1em 0 0 0; }
 .twocols {
 	width:50%; float:left; }
 .centerCol {
 	text-align:center; }
+.centerCol img {
+	vertical-align:baseline; }
 .clear {
 	clear:both; }
 table {
@@ -24,7 +15,7 @@ table {
 table caption {
 	font-weight: bold; }
 .subtext {
-	font-size:80%; font-style:italic; padding-top:1em; }
+	font-size:80%; font-style:italic; margin-top:0; }
 #home td {
 	padding:2px 8px; }
 #home table td:first-child {
@@ -52,12 +43,8 @@ img.regimg {
 	vertical-align:middle;
 	height:30px;
 	border:0; }
-.shavetop {
-	margin-top:0; }
 #srchStr {
 	font-size: 80%; }
-.lightgray {
-	color: gray; }
 ul.spaceitems li {
 	padding:5px; }
 div.resultsCol {
@@ -65,7 +52,10 @@ div.resultsCol {
 div.resultsCol:first-child {
 	width: 28%; }
 div.resultsCol:nth-child(2) {
-	width:72%; height:500px; }
+	width:72%; }
+div.resultsCol ul {
+	margin-top: 0.5em;
+	padding-left: 1em; }
 #resultsFrame {
 	height:100%; width:100%; }
 #results p {
@@ -74,7 +64,46 @@ div.resultsCol:nth-child(2) {
 	margin-left: auto;
 	margin-right: auto;
 	float: none; }
-div.photoBlock {
-	float:left;
-	margin-left:30px;
-	text-align:center; }
+	
+body {margin:0 0.5em;}
+.topnav {
+  overflow: hidden;
+  background-color: red; }
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 1em 1em;
+  font-weight: bold;
+  text-decoration: none;
+  font-size: 1em; }
+.topnav a:hover {
+  background-color: #ddd;
+  color: black; }
+.topnav .icon {
+  display: none; }
+
+@media screen and (max-width: 600px) {
+  .topnav a:not(:first-child) {display: none;}
+  .topnav a.icon {
+    float: right;
+    display: block;
+  }
+  div.twocols, div.resultsCol:nth-child(2), div.resultsCol:first-child {
+	width:100%; float:none; }
+
+}
+@media screen and (max-width: 600px) {
+  .topnav.responsive {position: relative;}
+  .topnav.responsive .icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+}
