@@ -92,6 +92,7 @@ body {margin:0 0.5em;}
   }
   div.twocols, div.resultsCol:nth-child(2), div.resultsCol:first-child {
 	width:100%; float:none; }
+  img { max-width:300px; }
 }
 @media only screen and (max-width:600px) {
   .topnav.responsive {position: relative;}

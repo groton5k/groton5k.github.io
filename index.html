@@ -90,9 +90,11 @@
 		/* Events */
 		$(".showresults").on("click", function (event) {
 			event.preventDefault();
-			if (!$(this).data('filenames')) {
-				$(this).data('filenames', $(this).val());
-			}
+			buildTables($(this));
+		});
+		$(".showtop10").on("click", function (event) {
+			event.preventDefault();
+			$(this).data('filenames', $(this).val());
 			buildTables($(this));
 		});
 		$("#searchresults").on("click", function () {
@@ -217,7 +219,7 @@
 			</ul>
 		</div>
 		<div class="twocols">
-			<img src="photos/AwardsCollage.jpg" width="100%" alt="Award Photos" />
+			<img src="photos/AwardsCollage.jpg" alt="Award Photos" />
 		</div>
 		<div class="clear"></div>
 	</div>
@@ -247,7 +249,7 @@
 			View best times by age - Female</a></p>	
 		</div>
 		<div class="resultsCol centerCol resultsArea">
-			<img src="http://2.bp.blogspot.com/-OKqZi2u3mQc/UaT2vylZ3DI/AAAAAAAAAJo/OBtr3mM7OF8/s1600/Race-Header.jpg" style="width=80%;" alt="winner" />
+			<img src="http://2.bp.blogspot.com/-OKqZi2u3mQc/UaT2vylZ3DI/AAAAAAAAAJo/OBtr3mM7OF8/s1600/Race-Header.jpg" alt="winner" />
 		</div>
 		<div class="clear"></div>
 	</div>
@@ -284,7 +286,7 @@
 			<p style="margin-bottom:0;">Search all results by name: <input type="text" id="srchStr" placeholder="Enter all or part of a name" size="20" />
 			<button id="searchresults">Search</button></p>
 			<p style="margin-bottom:0;">View top 10 times by age group: 
-			<select class="showresults">
+			<select class="showtop10">
 				<option>Select age group</option>
 				<option value="topu15m.txt,topu15f.txt">Under 15</option>
 				<option value="top1519m.txt,top1519f.txt">15-19</option>
