@@ -19,4 +19,5 @@ Year	Name	Age	Time
 2014	Andrew Getzin	45	19:00
 2015	Keith Eggleston	55	19:55
 2016	Adam Engst	48	17:50
+2017	Adam Engst	49	18:09
 * - Overall winner.

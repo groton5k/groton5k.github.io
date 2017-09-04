@@ -1,4 +1,4 @@
-Masters Best Times by Age (1998-2016)
+Masters Best Times by Age (1998-2017)
 Age	Name	Time	Year
 40	Charlene Lyford	20:19	2006
 41	Jill Dunphy	25:25	2001
@@ -6,7 +6,7 @@ Age	Name	Time	Year
 43	Stephanie Gardner	21:14	2015
 44	Stephanie Gardner	20:29	2016
 45	Ann Bushey	23:14	2003
-46	Lorrie Tily	22:24	2007
+46	Cynthia Robbs	22:07	2017
 47	Suzanne Leone	24:19	2000
 48	Zsofia Franck	23:27	2001
 49	Zsofia Franck	22:40	2002
@@ -24,6 +24,7 @@ Age	Name	Time	Year
 61	Marilyn Miller	34:13	2003
 62	Joanne Dabulewicz	36:50	2015
 63	Zsofia Franck	26:55	2016
+64	Zsofia Franck	27:16	2017
 65	Anne Snedaker	37:52	2016
-66	Carol Forehand	41:04	2015
+66	Anne Snedaker	42:03	2017
 67	Kathy Dexter	44:30	2013

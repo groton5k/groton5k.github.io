@@ -19,4 +19,5 @@ Year	Name	Age	Time
 2014	Keith Eggleston	54	19:53
 2015	Mark Scholeno	46	21:43
 2016	Keith Eggleston	56	19:43
+2017	Keith Eggleston	57	19:28
 * - Top masters not in top 3 overall.

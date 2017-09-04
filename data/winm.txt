@@ -19,3 +19,4 @@ Year	Name	Age	Time
 2014	Michael Roberts	33	17:30
 2015	Dave Slater	31	18:11
 2016	Mikhail Kern	25	17:10
+2017	Mikhail Kern	26	17:24

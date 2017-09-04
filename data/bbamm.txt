@@ -1,4 +1,4 @@
-Masters Best Times by Age (1998-2016)
+Masters Best Times by Age (1998-2017)
 Age	Name	Time	Year
 40	Gregg McConnell	19:39	2005
 41	Adam Engst	17:55	2009
@@ -9,7 +9,7 @@ Age	Name	Time	Year
 46	Mark Rybinski	17:48	2001
 47	Casey Carlstrom	17:03	2006
 48	Adam Engst	17:50	2016
-49	John Hylas	19:12	2007
+49	Adam Engst	18:09	2017
 50	Eric Maki	18:57	2012
 51	Robert Haas	20:01	2011
 52	Keith Eggleston	20:29	2012
@@ -17,10 +17,10 @@ Age	Name	Time	Year
 54	Keith Eggleston	19:53	2014
 55	Keith Eggleston	19:55	2015
 56	Brian Cummins	19:16	2011
-57	Herb Engman	19:59	2002
+57	Keith Eggleston	19:28	2017
 58	Herb Engman	19:45	2003
 59	Alan Lockett	20:46	2016
-60	Carl Franck	21:58	2012
+60	Alan Lockett	20:43	2017
 61	Peter McGinnis	22:24	2015
 62	David Fernandez	23:02	2012
 63	Carl Franck	24:14	2015

@@ -19,3 +19,4 @@ Year	Name	Age	Time
 2014	Abbey Yatsko	16	23:08
 2015	Stephanie Gardner	43	21:14
 2016	Stephanie Gardner	44	20:29
+2017	Catie Eisenhut	15	21:37

@@ -19,4 +19,5 @@ Year	Name	Age	Time
 2014	Caroline Rasmussen	56	25:24
 2015	Susi Varvayanis	51	24:48
 2016	Debra Federation	46	25:42
+2017	Cynthia Robbs	46	22:07
 * - Top masters not in top 3 overall.

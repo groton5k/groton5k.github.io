@@ -1,4 +1,4 @@
-Best Times by Age (1998-2016)
+Best Times by Age (1998-2017)
 Age	Name	Time	Year
 6	Quentin Getzin	35:39	2014
 7	Vincent Borden	23:24	2006
@@ -20,7 +20,7 @@ Age	Name	Time	Year
 23	Adam Nalven	17:57	2002
 24	Stephen Getman	16:06	2000
 25	Nick Scalfone	16:30	2010
-26	Andrew Bonavia	18:28	1998
+26	Mikhail Kern	17:24	2017
 27	Eric Davis	17:19	2007
 28	Andrew Bonavie	18:21	2000
 29	Skip Strobel	17:16	2000

@@ -1,8 +1,8 @@
-Best Times by Age (1998-2016)
+Best Times by Age (1998-2017)
 Age	Name	Time	Year
 6	Leah Lepinnet	37:00	2015
 7	Clara Karastury-Duga	36:12	2004
-8	Kaylee Harris	39:04	2016
+8	Leah LePinnet	31:22	2017
 9	Anna Deitcher	30:04	2008
 10	Martina Larsson	24:18	2005
 11	Taylor Jordan	24:49	2004
