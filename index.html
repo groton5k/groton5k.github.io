@@ -107,11 +107,14 @@
 		});
 		$("#selectedYr").on("change", function () {
 			var where = $(this).parents("div.sectiondiv").find(".resultsArea"),
-				needframe = $(this).val().search('leonetiming.com') >= 0;
-			if (!needframe) {
+				needframe = $(this).val().search('leonetiming.com') >= 0,
+				runsignup = $(this).val().search('runsignup.com') >= 0;
+			if (!needframe && !runsignup) {
 				$.get($(this).val(), function(results) {
 					$(where).empty().html("<pre>" + results);
 				});
+			} else if (runsignup) {
+				window.open($(this).val());
 			} else {
 				$(where).empty().html("<iframe id='resultsFrame'><\/iframe>");
 				$("#resultsFrame").attr('src', $(this).val());
@@ -260,6 +263,8 @@
 			<p style="margin-bottom:0;">View results by year: 
 			<select id="selectedYr">
 				<option>Select year</option>
+				<option value="https://runsignup.com/Race/Results/?raceId=32341&customResultsPageId=17701">2017 5K</option>
+				<option value="https://runsignup.com/Race/Results/?raceId=32341&customResultsPageId=17702">2017 Fun Run</option>
 				<option value="http://leonetiming.com/2016/Roads/Groton5K16.htm">2016 5K</option>
 				<option value="http://leonetiming.com/2016/Roads/GrotonMile16.htm">2016 Fun Run</option>
 				<option value="http://leonetiming.com/2015/Roads/Groton5K15.htm">2015 5K</option>
