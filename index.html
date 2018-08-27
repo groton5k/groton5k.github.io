@@ -105,6 +105,11 @@
 			$("div.sectiondiv").hide();
 			$("#"+this.href.split("#")[1]).show();
 		});
+		$("#showgrandprix2017").on("click", function(event) {
+			event.preventDefault();
+			$(this).hide();
+			$("#grandprix2017").show();
+		});
 		$("#selectedYr").on("change", function () {
 			var where = $(this).parents("div.sectiondiv").find(".resultsArea"),
 				needframe = $(this).val().search('leonetiming.com') >= 0,
@@ -341,8 +346,8 @@
 		<h5>2018 Standings after 2 races</h5>
 		<img src="./data/grandprix_2018_after2.png" alt="standings table" width="500">
 		
-		<h5>2017 Final Standings</h5>
-		<table border=1 cellspacing=0 cellpadding=5 style="margin-top:1em;">
+		<button id='showgrandprix2017'>Show 2017 Final Results</button>
+		<table id="grandprix2017" border=1 cellspacing=0 cellpadding=5 style="margin-top:1em;display:none;">
 		<tr><th colspan=7 style="text-align:left;">2017 Grand Prix Results - Male</tr>
 		<tr><th>Name<th>Lansing<th>Dryden<th>Groton<th>Overall<th>Age<th>City</tr>
 		<tr><td>Richard Moore<td>18:07<td>17:27<td>17:43<td>0:53:17<td>18<td>Groton</tr>
