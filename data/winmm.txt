@@ -20,4 +20,5 @@ Year	Name	Age	Time
 2015	Keith Eggleston	55	19:55
 2016	Adam Engst	48	17:50
 2017	Adam Engst	49	18:09
+2018	Andy Brockmyre	51	19:01
 * - Overall winner.

@@ -1,5 +1,6 @@
-Best Times by Age (1998-2017)
+Best Times by Age (1998-2018)
 Age	Name	Time	Year
+4	Adelin Strange	62:48	2018
 6	Leah Lepinnet	37:00	2015
 7	Clara Karastury-Duga	36:12	2004
 8	Leah LePinnet	31:22	2017
