@@ -1,4 +1,4 @@
-Top 10 Age Graded - Female (1998-2017)
+Top 10 Age Graded - Female (1998-2018)
 Name	Age	Time	Year	Age Grade
 Nancy Kleinrock	55	21:56	2015	79.64
 Murphee Hayes	32	18:46	2006	78.77
@@ -8,5 +8,5 @@ Jennifer Larkin	23	18:55	2001	78.06
 Melissa Usack	13	20:43	2000	77.80
 Samantha Sauer	14	20:21	2010	77.56
 Murphee Hayes	31	19:04	2005	77.45
+Nancy Kleinrock	58	23:29	2018	77.08
 Murphee Hayes	33	19:14	2007	76.95
-Caitlin Palmer	14	20:39	2003	76.43
