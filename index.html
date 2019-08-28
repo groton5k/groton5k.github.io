@@ -109,6 +109,11 @@
 			event.preventDefault();
 			$(this).hide();
 			$("#grandprix2017").show();
+		});	
+		$("#showgrandprix2018").on("click", function(event) {
+			event.preventDefault();
+			$(this).hide();
+			$("#grandprix2018").show();
 		});
 		$("#selectedYr").on("change", function () {
 			var where = $(this).parents("div.sectiondiv").find(".resultsArea"),
@@ -347,9 +352,15 @@
 		target="_blank">Lansing Lighthouse 5K</a>, the <a href="http://drydenrunforthepride.com"
 		target="_blank">Dryden Run for the Pride</a>, and the 
 		<a href="http://grotonlaborday5k.com">Groton Labor Day 5K</a>. Prizes are awarded after
-		the Groton Labor Day 5K to the top 3 male and female runners with the best combined times for the three races.
-
-		<table id="grandprix2018" border=1 cellspacing=0 cellpadding=2 style="margin-top:1em;">
+		the Groton Labor Day 5K.</p>
+		<p style="width:100%;max-width:650px;">Due to different distances being run during the 2019 Dryden Run for the Pride, 
+		the final 2019 Triple Town Grand Prix Series standings 
+		will be based on the combined times of the Lansing Lighthouse 5K and Groton Labor Day 5K from among the competitors 
+		that completed all three races.</p>
+		<p style="font-weight: bold;">2019 Standing Through Two Races</p>
+		<img src="2019Standings.png" style="max-width: 500px;" alt="2019 Grand Prix standings"/>
+		<p><button id='showgrandprix2018'>Show 2018 Final Results</button></p>
+		<table id="grandprix2018" border=1 cellspacing=0 cellpadding=2 style="margin-top:1em;display:none;">
 		<tr><th colspan=6 style="text-align:left;">2018 Grand Prix Final Results - Male</tr>
 		<tr><th>Name<th>Age<th>Lansing<th>Dryden<th>Groton<th>Overall</tr>
 		<tr><td>Mikhail Kern<td>27<td>17:15<td>17:43<td>17:29<td>00:52:27</tr>
