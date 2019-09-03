@@ -21,3 +21,4 @@ Year	Name	Age	Time
 2016	Stephanie Gardner	44	20:29
 2017	Catie Eisenhut	15	21:37
 2018	Catie Eisenhut	16	20:23
+2019	Jenny Berkowitz	23	19:51

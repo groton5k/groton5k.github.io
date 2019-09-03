@@ -1,5 +1,6 @@
-Best Times by Age (1998-2018)
+Best Times by Age (1998-2019)
 Age	Name	Time	Year
+4	Ryker Strange	59:23	2019
 6	Quentin Getzin	35:39	2014
 7	Vincent Borden	23:24	2006
 8	Christopher VanLoon	25:57	2004
@@ -16,13 +17,13 @@ Age	Name	Time	Year
 19	Jacob Hebdon	17:52	2007
 20	Robert Dunham	17:30	2013
 21	Robert Dunham	17:33	2014
-22	Andy Carey	20:04	2008
-23	Adam Nalven	17:57	2002
+22	Jason Jenks	19:57	2019
+23	Adam Berkowitz	16:55	2019
 24	Stephen Getman	16:06	2000
 25	Nick Scalfone	16:30	2010
 26	Mikhail Kern	17:24	2017
 27	Eric Davis	17:19	2007
-28	Andrew Bonavie	18:21	2000
+28	Mikhail Kern	16:49	2019
 29	Skip Strobel	17:16	2000
 30	Skip Strobel	17:21	2001
 31	Rob Winkky	17:28	2009

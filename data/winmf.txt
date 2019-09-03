@@ -21,4 +21,5 @@ Year	Name	Age	Time
 2016	Stephanie Gardner *	44	20:29
 2017	Cynthia Robbs	46	22:07
 2018	Nancy Kleinrock	58	23:29
+2019	Tonya Engst	51	25:19
 * - Overall winner.

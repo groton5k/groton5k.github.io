@@ -21,3 +21,4 @@ Year	Name	Age	Time
 2016	Mikhail Kern	25	17:10
 2017	Mikhail Kern	26	17:24
 2018	Mikhail Kern	27	17:29
+2019	Mikhail Kern	28	16:49

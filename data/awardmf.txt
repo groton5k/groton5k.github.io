@@ -21,4 +21,5 @@ Year	Name	Age	Time
 2016	Debra Federation	46	25:42
 2017	Cynthia Robbs	46	22:07
 2018	Nancy Kleinrock	58	23:29
+2019	Tonya Engst	51	25:19
 * - Top masters not in top 3 overall.
