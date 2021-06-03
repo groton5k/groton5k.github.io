@@ -1,6 +1,15 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-53475541-1"></script>
+	<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+
+		gtag('config', 'UA-53475541-1');
+	</script>
 	<title>Groton Labor Day 5K</title>
 	<meta name="viewport" content="initial-scale = 1.0,maximum-scale = 1.0" />
 	<link rel="stylesheet" type="text/css" href="groton5k.css" />
@@ -126,7 +135,7 @@
 			} else if (runsignup) {
 				window.open($(this).val());
 			} else {
-				$(where).empty().html("<iframe id='resultsFrame'><\/iframe>");
+				$(where).empty().html("<iframe id='resultsFrame' title='Results'><\/iframe>");
 				$("#resultsFrame").attr('src', $(this).val());
 			}
 		});
@@ -159,12 +168,8 @@
 	<div id="home" class="sectiondiv">
 		<div class="twocols">
 			<h3>23rd Groton Labor Day 5K and 1 Mile Fun Run</h3>
-			<div style="border:1pt solid red; margin-bottom:1em; padding:0 1em;">
-				<p>It is with deep regret that we have to inform you that, like most other races, we are officially cancelling the 2020 
-					edition of the Groton Labor Day 5K. We fully expect to return next year to offer the 23rd Groton Labor Day 5K on September 6, 2021.
-				</p>
-				<p> (Posted July 16, 2020)</p>
-			</div>
+			<div>
+
 			<!--<p style="padding-right:1em;">All stats on the Records, Results and Trivia pages have been updated
 			to include the results of the 2019 race. </p> 
 			
@@ -174,7 +179,7 @@
 			View 2019 Fun Run photo album</a></p>-->
 			
 
-			<!--<span><b>When: </b>September 7, 2020</span>
+			<span><b>When: </b>September 6, 2021</span>
 			<p><b>Where: </b>Groton High School, 400 Peru Rd, Groton, NY</p>
 			<table>
 				<caption>Race Day Schedule:</caption>
@@ -184,7 +189,7 @@
 			</table>
 			<p><b>Amenities:</b>
 			<br /><span>Parking, restrooms and showers will be available near registration
-			outside the high school gym. Post race refreshments.</span></p>-->
+			outside the high school gym. Post race refreshments.</span></p>
 		</div>
 		<div class="twocols centerCol" style="margin-top:1em;">
 			<img src="photos/start18.png" width="400" alt="Race Photo" />
@@ -199,11 +204,11 @@
 
 	<div id="register" class="sectiondiv">
 		<h4>Registration</h4>
-		<p>2021 registration information will be posted when available.</p>
+		<!--<p>2021 registration information will be posted when available.</p>-->
 		
-		<!--<p>Entry fee for those pre-registered prior to August 23 will be $14 for 
+		<p>Entry fee for those pre-registered prior to August 27 will be $14 for 
 		students and $18 for adults. The 1 mile Fun Run is free.</p>
-		<p>Registrations received after August 23 and race day will 
+		<p>Registrations received after August 27 and race day will 
 		be $20 for students and $25 for adults. Registrations not received by race day 
 		will be considered not sent and you will need to register on race day.</p>
 		<p>*** Team Discounts Available (5+ athletes &rArr; 
@@ -215,7 +220,7 @@
 		<img src="images/runsignup.png" class="regimg" alt="RunSignUp" /></a></p>
 		<p><a href="application2019.pdf" target="_blank">
 		Print a paper copy of the entry form  
-		<img src="images/pdf.jpg" class="regimg" alt="PDF" /></a></p> -->
+		<img src="images/pdf.jpg" class="regimg" alt="PDF" /></a></p> 
 	</div>
 
 	<div id="course" class="sectiondiv">
@@ -314,7 +319,7 @@
 				<option value="data/Results1999.txt">1999</option>
 				<option value="data/Results1998.txt">1998</option>
 			</select></p>
-			<p style="margin-bottom:0;">Search all results by name: <input type="text" id="srchStr" placeholder="Enter all or part of a name" size="20" />
+			<p style="margin-bottom:0;">Search all results by name: <input type="text" id="srchStr" placeholder="Enter all or part of a name" size="20" aria-label="Search_by_name" />
 			<button id="searchresults">Search</button></p>
 			<p style="margin-bottom:0;">View top 10 times by age group: 
 			<select class="showtop10">
@@ -453,16 +458,5 @@
 		<tr><td>Mary Guthrie<td>38:41<td>42:46<td>39:56<td>2:01:23<td>53<td>Trumansburg</tr>
 		</table>
 	</div>
-
-<script>
-  /* Google analytics tracking */
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','http://www.google-analytics.com/analytics.js','ga');
-  ga('create', 'UA-53475541-1', 'auto');
-  ga('send', 'pageview');
-</script>
-
 </body>
 </html>
