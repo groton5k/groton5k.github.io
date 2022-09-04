@@ -1,4 +1,4 @@
-Best Times by Age (1998-2019)
+Best Times by Age (1998-2021)
 Age	Name	Time	Year
 4	Ryker Strange	59:23	2019
 6	Quentin Getzin	35:39	2014
@@ -6,7 +6,7 @@ Age	Name	Time	Year
 8	Christopher VanLoon	25:57	2004
 9	Ryan Connor	22:02	2002
 10	Andris Goncarovs	20:21	2002
-11	Andris Goncarous	19:55	2003
+11	Andris Goncarovs	19:55	2003
 12	Andris Goncarovs	18:36	2004
 13	Andris Goncarovs	17:26	2005
 14	Brian Erickson	18:16	2000
@@ -24,7 +24,7 @@ Age	Name	Time	Year
 26	Mikhail Kern	17:24	2017
 27	Eric Davis	17:19	2007
 28	Mikhail Kern	16:49	2019
-29	Skip Strobel	17:16	2000
+29	Tyler Beck	17:08	2021
 30	Skip Strobel	17:21	2001
 31	Rob Winkky	17:28	2009
 32	Andrew Getzin	18:53	2001

@@ -22,4 +22,5 @@ Year	Name	Age	Time
 2017	Keith Eggleston	57	19:28
 2018	Andy Brockmyre	51	19:01
 2019	Keith Eggleston	59	20:21
+2021	Mark Scholeno	52	19:51
 * - Top masters not in top 3 overall.

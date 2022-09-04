@@ -22,3 +22,4 @@ Year	Name	Age	Time
 2017	Mikhail Kern	26	17:24
 2018	Mikhail Kern	27	17:29
 2019	Mikhail Kern	28	16:49
+2021	Tyler Beck	29	17:08

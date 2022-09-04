@@ -1,6 +1,8 @@
-Top 10 - 60 to 69 Male (1998-2019)			
+Top 10 - 60 to 69 Male (1998-2021)			
 Name	Age	Time	Year
+Keith Eggleston	61	20:22	2021
 Alan Lockett	60	20:43	2017
+Alan Lockett	64	21:20	2021
 Carl Franck	60	21:58	2012
 Peter McGinnis	61	22:24	2015
 Carl Franck	61	22:52	2013
@@ -8,5 +10,3 @@ David Fernandez	62	23:02	2012
 John Smillie	60	23:13	2013
 Chuck Collins	68	23:23	2002
 Al Wruck	66	23:26	2011
-David Fernandez	65	23:32	2015
-Bill Howell	65	23:3	2012

@@ -22,4 +22,5 @@ Year	Name	Age	Time
 2017	Cynthia Robbs	46	22:07
 2018	Nancy Kleinrock	58	23:29
 2019	Tonya Engst	51	25:19
+2021	Caroline Rasmussen	63	26:32
 * - Overall winner.
