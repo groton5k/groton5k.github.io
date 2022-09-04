@@ -1159,7 +1159,7 @@ James Miner	69	0:41:57	2018
 James Miner	72	0:27:11	2021
 James Nuncato	30	0:21:29	2016
 James Sage	64	0:37:57	2015
-James Saroka	61	0:50:13	2021
+Jamie Saroka	61	0:50:13	2021
 James Strehle	46	0:24:05	1999
 James Usack	41	0:19:01	2000
 James Zimmerman	39	0:20:09	1999
