@@ -23,4 +23,5 @@ Year	Name	Age	Time
 2018	Andy Brockmyre	51	19:01
 2019	Keith Eggleston	59	20:21
 2021	Mark Scholeno	52	19:51
+2022	Simon Moll	42	17:32
 * - Overall winner.

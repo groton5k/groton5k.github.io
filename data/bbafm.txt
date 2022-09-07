@@ -1,4 +1,4 @@
-Masters Best Times by Age (1998-2021)
+Masters Best Times by Age (1998-2022)
 Age	Name	Time	Year
 40	Charlene Lyford	20:19	2006
 41	Jill Dunphy	25:25	2001
@@ -24,8 +24,10 @@ Age	Name	Time	Year
 61	Marilyn Miller	34:13	2003
 62	Deb Siegert	30:48	2019
 63	Caroline Rasmussen	26:32	2021
-64	Zsofia Franck	27:16	2017
+64	Caroline Rasmussen	26:58	2022
 65	Anne Snedaker	37:52	2016
 66	Anne Snedaker	32:03	2017
 67	Kathy Dexter	44:30	2013
 68	Joanne Dabulewicz	41:29	2021
+69	Joanne Dabulewicz	40:26	2022
+71	Shelley Dafoe	37:38	2022

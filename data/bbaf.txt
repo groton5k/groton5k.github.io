@@ -1,11 +1,11 @@
-Best Times by Age (1998-2021)
+Best Times by Age (1998-2022)
 Age	Name	Time	Year
 4	Adelin Strange	62:48	2018
-5	Adelin Strange	59:14	2019
+5	Samantha Cappadora	45:32	2022
 6	Leah Lepinnet	37:00	2015
 7	Clara Karastury-Duga	36:12	2004
 8	Alison Belcher	26:45	2021
-9	Anna Deitcher	30:04	2008
+9	Alison Belcher	24:01	2022
 10	Martina Larsson	24:18	2005
 11	Taylor Jordan	24:49	2004
 12	Natalie Usack	23:28	2001
