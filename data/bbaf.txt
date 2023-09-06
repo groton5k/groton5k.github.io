@@ -6,7 +6,7 @@ Age	Name	Time	Year
 7	Clara Karastury-Duga	36:12	2004
 8	Alison Belcher	26:45	2021
 9	Alison Belcher	24:01	2022
-10	Martina Larsson	24:18	2005
+10	Alison Belcher	23:57	2023
 11	Taylor Jordan	24:49	2004
 12	Natalie Usack	23:28	2001
 13	Melissa Usack	20:43	2000

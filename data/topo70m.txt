@@ -1,7 +1,8 @@
-Top 10 - 70 and over Male (1998-2022)			
+Top 10 - 70 and over Male (1998-2023)			
 Name	Age	Time	Year
 Ted Larison	70	22:25	2022
 David Keifer	70	23:21	2016
+Ted Larison	71	25:05	2023
 Jerry Bergenstock	70	25:39	2012
 David Keifer	72	26:17	2018
 Jerry Bisson	72	26:34	2003
@@ -9,4 +10,3 @@ Jerry Bergenstock	71	26:39	2013
 Jerry Bisson	71	26:40	2002
 Jerry Bisson	73	26:47	2004
 Gerald Bergenstock	72	26:53	2014
-James Miner	72	27:11	2021

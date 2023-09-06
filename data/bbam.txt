@@ -27,7 +27,7 @@ Age	Name	Time	Year
 29	Tyler Beck	17:08	2021
 30	Tyler Beck	16:51	2022
 31	Rob Winkky	17:28	2009
-32	Andrew Getzin	18:53	2001
+32	Mikhail Kern	18:32	2023
 33	Mark Gaffney	16:58	2000
 34	Mark Gaffney	17:02	2001
 35	Adam Engst	17:24	2003

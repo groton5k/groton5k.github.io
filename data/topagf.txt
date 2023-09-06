@@ -1,12 +1,12 @@
-Top 10 Age Graded - Female (1998-2022)
+Top 10 Age Graded - Female (1998-2023)
 Name	Age	Time	Year	Age Grade
-Nancy Kleinrock	55	21:56	2015	79.64
-Murphee Hayes	32	18:46	2006	78.77
-Michelle Franklin	29	18:50	1998	78.41
-Zsofia Franck	56	22:35	2008	78.30
-Jennifer Larkin	23	18:55	2001	78.06
-Melissa Usack	13	20:43	2000	77.80
-Samantha Sauer	14	20:21	2010	77.56
-Murphee Hayes	31	19:04	2005	77.45
-Nancy Kleinrock	58	23:29	2018	77.08
-Murphee Hayes	33	19:14	2007	76.95
+Nancy Kleinrock	55	21:56	2015	79.48
+Murphee Hayes	32	18:46	2006	78.60
+Michelle Franklin	29	18:50	1998	78.23
+Zsofia Franck	56	22:35	2008	78.08
+Jennifer Larkin	23	18:55	2001	77.89
+Melissa Usack	13	20:43	2000	77.55
+Samantha Sauer	14	20:21	2010	77.40
+Murphee Hayes	31	19:04	2005	77.27
+Nancy Kleinrock	58	23:29	2018	76.86
+Murphee Hayes	33	19:14	2007	76.78

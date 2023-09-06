@@ -24,3 +24,4 @@ Year	Name	Age	Time
 2019	Mikhail Kern	28	16:49
 2021	Tyler Beck	29	17:08
 2022	Tyler Beck	30	16:51
+2023	Richard Moore	24	16:58

@@ -24,4 +24,5 @@ Year	Name	Age	Time
 2019	Tonya Engst	51	25:19
 2021	Caroline Rasmussen	63	26:32
 2022	Caroline Rasmussen	64	26:58	
+2023	Joan Rappaport          60   24:07
 * - Overall winner.

@@ -24,3 +24,4 @@ Year	Name	Age	Time
 2019	Jenny Berkowitz	23	19:51
 2021	Teresa Garcia	19	24:06
 2022	Allison Belcher	9	24:01
+2023	Allison Belcher	10	23:57
