@@ -1,4 +1,4 @@
-Best Times by Age (1998-2022)
+Best Times by Age (1998-2024)
 Age	Name	Time	Year
 4	Ryker Strange	59:23	2019
 6	Quentin Getzin	35:39	2014

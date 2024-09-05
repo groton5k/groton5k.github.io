@@ -1,4 +1,4 @@
-Masters Best Times by Age (1998-2022)
+Masters Best Times by Age (1998-2024)
 Age	Name	Time	Year
 40	Jonathon Pecters	19:05	2018
 41	Adam Engst	17:55	2009
@@ -24,7 +24,7 @@ Age	Name	Time	Year
 61	Keith Eggleston	20:22	2021
 62	Keith Eggleston	20:53	2022
 63	Keith Eggleston	21:40	2023
-64	Alan Lockett	21:20	2021
+64	Keith Eggleston	21:05	2024
 65	David Fernandez	23:32	2015
 66	Alan Lockett	21:55	2023
 67	Peter McGinnis	24:22	2021
@@ -32,9 +32,10 @@ Age	Name	Time	Year
 69	Carl Franck	28:09	2021
 70	Ted Larison	22:25	2022
 71	Ted Larison	25:05	2023
-72	David Keifer	26:17	2018
+72	Ted Larison	23:11	2024
 73	Jerry Bisson	26:47	2004
 74	Gerald Bergenstock	27:43	2016
-75	George Gavras	32:01	2001
+75	Robert Vidulich	30:58	2024
 76	James Osborne	27:37	2022
+77	Jerry Smith	35:57	2024
 78	Al Wruck	48:16	2023

@@ -24,5 +24,6 @@ Year	Name	Age	Time
 2019	Tonya Engst	51	25:19
 2021	Caroline Rasmussen	63	26:32
 2022	Stephanie Mulinos	57	26:58
-2023	Katy Brockway           41   25:55
+2023	Katy Brockway	41	25:55
+2024	Monica Moll	43	25:20
 * - Top masters not in top 3 overall.
