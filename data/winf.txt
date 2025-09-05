@@ -26,3 +26,4 @@ Year	Name	Age	Time
 2022	Allison Belcher	9	24:01
 2023	Alison Belcher	10	23:57
 2024	Emily Miller	22	19:30
+2025	Emily Miller	23	19:10

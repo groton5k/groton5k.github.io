@@ -26,4 +26,5 @@ Year	Name	Age	Time
 2022	Simon Moll	42	17:32
 2023	Dan Augustyn	50	20:10
 2024	Keith Eggleston	64	21:05
+2025	Dave Kania	45	20:23
 * - Overall winner.

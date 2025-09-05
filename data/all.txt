@@ -10,9 +10,12 @@ Abbey Yatsko	16	0:23:08	2014
 Abby Costello	24	0:25:36	2008
 Abe Vidulich	10	0:27:46	1999
 Abigal Clark	10	0:38:17	2024
+Abigal Clark	11	0:49:07	2025
 Abraham Bishop	15	0:21:55	2024
+Abraham Bishop	16	0:23:02	2025
 Adam Berkowitz	23	0:16:55	2019
 Adam Bishop	9	0:29:31	2024
+Adam Bishop	10	0:28:00	2025
 Adam Cronk	10	0:27:32	2010
 Adam Cronk	11	0:24:09	2011
 Adam Cronk	12	0:22:54	2012
@@ -48,12 +51,15 @@ Addie Clore	16	0:34:38	2024
 Addison Gallow	7	0:41:16	2022
 Addison Gallow	8	0:40:47	2023
 Addison Gallow	9	0:39:52	2024
+Addison Gallow	10	0:34:52	2025
 Addy Whitener	15	0:29:57	2017
 Adelin Strange	4	1:02:48	2018
 Adelin Strange	5	0:59:14	2019
 Adelin Strange	7	0:55:46	2021
 Adelin Strange	9	0:51:26	2023
+Adelin Strange	11	0:50:05	2025
 Adelyn Clore	13	0:32:23	2021
+Adelyn Clore	17	0:34:14	2025
 Adrian Finney	13	0:28:55	2016
 Adrian Finney	14	0:25:54	2017
 Adrian Finney	15	0:23:51	2018
@@ -103,6 +109,7 @@ Alexis Scarlata	16	0:40:53	2013
 Alexis Scarlatta	17	0:32:59	2014
 Alexis Stone	10	0:45:27	2018
 Alicia McLaughlin	33	0:22:11	2024
+Alicia McLaughlin	34	0:23:47	2025
 Alida Van Almelo	17	0:23:24	2002
 Alida VanAlmelo	13	0:24:33	1998
 Alida VanAlmelo	14	0:24:42	1999
@@ -111,9 +118,11 @@ Alison Belcher	8	0:26:45	2021
 Alison Belcher	9	0:24:01	2022
 Alison Belcher	10	0:23:57	2023
 Alison Belcher	11	0:22:14	2024
+Alison Belcher	12	0:22:02	2025
 Allen Gallow	12	0:39:04	2004
 Allen Gallow	25	0:22:55	2017
 Allen Gallow	30	0:29:19	2022
+Allen Gallow	34	0:21:10	2025
 Allie Dyson	36	0:24:19	2023
 Allison Cronk	13	0:29:14	2009
 Allison Cronk	14	0:23:52	2010
@@ -138,8 +147,8 @@ Amber Summers	13	0:24:46	2005
 Amber Summers	14	0:25:30	2006
 Amber Summers	15	0:25:21	2007
 Amber Summers	16	0:27:09	2008
-Amber Swartz	14	0:24:18	2008
 Amber Swartz	14	0:25:57	2007
+Amber Swartz	14	0:24:18	2008
 Amber Swartz	15	0:22:33	2009
 Amber Swartz	16	0:22:47	2010
 Ameila Stamp	16	0:22:14	2011
@@ -161,6 +170,7 @@ Amy Seagroves	33	0:37:09	2021
 Amy Spadolini	59	0:32:38	2022
 Amy Spadolini	60	0:35:16	2023
 Amy Spadolini	61	0:32:06	2024
+Amy Spadolini	62	0:33:26	2025
 Amy Stein	24	0:19:49	2002
 Anders Axelson	14	0:26:32	2017
 Anders Axelson	15	0:27:36	2018
@@ -184,6 +194,7 @@ Andrew Gross	31	0:43:22	2010
 Andrew Gross	32	0:19:33	2011
 Andrew Keister	7	0:30:45	2023
 Andrew Keister	8	0:29:55	2024
+Andrew Keister	9	0:31:04	2025
 Andrew Over	16	0:23:36	1999
 Andrew Robinson	14	0:24:25	2006
 Andrew Robinson	15	0:21:06	2007
@@ -195,6 +206,7 @@ Andrew Roth	24	0:21:37	2018
 Andrew Roth	25	0:21:39	2019
 Andrew Roth	27	0:20:41	2021
 Andrew Roth	28	0:20:46	2022
+Andrew Roth	31	0:21:23	2025
 Andrew Saam	17	0:24:25	2023
 Andrew Starowicz	29	0:19:31	2001
 Andrew Starowicz	30	0:19:07	2002
@@ -208,6 +220,7 @@ Andris Goncarovs	10	0:20:21	2002
 Andris Goncarovs	11	0:19:55	2003
 Andris Goncarovs	12	0:18:36	2004
 Andris Goncarovs	13	0:17:26	2005
+Andy Anderson	57	0:32:10	2025
 Andy Brockmyre	51	0:19:01	2018
 Andy Carey	15	0:20:13	2001
 Andy Carey	16	0:20:22	2002
@@ -230,6 +243,7 @@ Angelina Stillioin	13	0:25:23	1999
 Ann Bushey	45	0:23:14	2003
 Ann Sanford	40	0:39:31	2017
 Ann Seamans	13	0:28:47	2024
+Anna Anderson	13	0:24:49	2025
 Anna Bitterbaum	16	0:28:39	2007
 Anna Bitterbaum	17	0:25:16	2008
 Anna Deitcher	8	0:39:49	2007
@@ -260,6 +274,7 @@ Ashley Gillbert	28	0:31:09	2016
 Ashley Houseknecht	26	0:25:57	2012
 Ashley Keister	30	0:27:02	2023
 Ashley Keister	31	0:26:23	2024
+Ashley Keister	32	0:26:20	2025
 Ashley Martin	17	0:26:02	2010
 Ashley Scheidweiler	14	0:25:36	2016
 Audrey Montague	13	0:34:37	2010
@@ -273,11 +288,13 @@ Audrey Moore	30	0:27:49	2017
 Aurora Komala	8	0:42:39	2019
 Austin Mead	17	0:21:50	2014
 Austin Mead	18	0:20:48	2015
+Avi Dlugosz	11	0:33:38	2025
 Avi Taheri	43	0:37:27	2003
 Bailey Vliet	13	0:29:16	2021
 Bailey Vliet	14	0:34:19	2022
 Bailey Vliet	15	0:29:51	2023
 Bailey Vliet	16	0:31:36	2024
+Bailey Vliet	17	0:41:19	2025
 Bailey Waters	17	0:34:24	2023
 Barb Saroka	40	0:39:23	1999
 Barb Saroka	57	0:46:30	2016
@@ -325,6 +342,7 @@ Bemjamin Forrester	14	0:32:23	2011
 Ben Calupea	14	0:25:13	2019
 Ben Caveney	16	0:27:31	2017
 Ben Caveney	17	0:24:50	2018
+Ben Glosenger	37	0:32:56	2025
 Ben Hebdon	14	0:20:38	1998
 Ben Hebdon	15	0:19:10	1999
 Ben Hebdon	16	0:17:44	2000
@@ -333,6 +351,7 @@ Ben McKnight	15	0:20:36	1998
 Ben Oswald	12	0:23:08	2001
 Ben Oswald	13	0:25:13	2002
 Ben Quigley	16	0:19:44	2007
+Benjamin Finio	39	0:23:42	2025
 Benjamin Yavitt	10	0:24:10	2001
 Benjamin Yavitt	11	0:24:03	2002
 Benjamin Yavitt	12	0:22:14	2003
@@ -395,6 +414,7 @@ Brad Lapar	14	0:21:34	2012
 Brad Robison	16	0:27:23	2001
 Bradley Argyle	23	0:35:21	2013
 Brady Young	15	0:20:11	2024
+Braelin Kreider	15	0:30:52	2025
 Brandan LaDue	11	0:30:21	2010
 Brandan LaDue	12	0:30:13	2011
 Brandey Hurchla	14	0:20:52	2000
@@ -419,16 +439,19 @@ Brendyn Alexander	15	0:25:27	1999
 Brennan Brockway	13	0:26:35	2017
 Brennan Brockway	14	0:23:15	2018
 Brennan Brockway	15	0:21:37	2019
+Brennen Jackson	15	0:31:01	2025
 Brenton Whitin	15	0:23:36	2010
 Brenton Whiting	14	0:26:07	2009
 Brenton Whiting	16	0:22:06	2011
 Brenton Whiting	17	0:21:49	2012
 Brett Clore	16	0:26:02	2019
-Brett Deuel	16	0:26:07	2024
 Brett Deuel	18	0:25:21	2023
+Brett Deuel	16	0:26:07	2024
+Brett Deuel	17	0:32:47	2025
 Brett Sherman	16	0:20:13	2000
 Briahanna Stanley	17	0:52:23	2024
 Brian Belcher	50	0:47:13	2024
+Brian Belcher	51	0:49:11	2025
 Brian Cummins	56	0:19:16	2011
 Brian Erickson	14	0:18:16	2000
 Brian Erickson	15	0:18:20	2001
@@ -460,6 +483,7 @@ Brian Watson	32	0:25:20	2019
 Brian Watson	36	0:29:50	2023
 Brian Wells	31	0:30:30	2002
 Brianne Adsitt	13	0:33:11	2024
+Brianne Adsitt	14	0:29:34	2025
 Bridget Barry	35	0:41:24	1998
 Bridget Meeman	15	0:26:01	2007
 Brittany Schrock	13	0:22:14	2003
@@ -469,12 +493,15 @@ Brittany Schrock	16	0:24:05	2006
 Brittany Siedlecki	31	0:41:13	2018
 Brittany Tuttle	20	0:42:39	2017
 Brittney Blowe	24	0:36:21	2011
+Brody Jackson	17	0:54:41	2025
 Brooke Jackson	14	0:31:52	2012
 Brooke Jackson	16	0:29:39	2014
 Brooke Jackson	17	0:28:16	2015
+Brooke Powers	13	0:46:30	2025
 Brooke Sovocool	11	0:41:06	2021
 Brooke Sovocool	14	0:41:07	2023
 Brooke Sovocool	15	0:48:11	2024
+Brooke Sovocool	16	0:34:36	2025
 Brooke Twitchell	15	0:29:31	2015
 Brooke Twitchell	16	0:26:47	2016
 Brooke Twitchell	17	0:24:53	2017
@@ -484,6 +511,7 @@ Brooklan Strange	12	0:46:31	2021
 Brooklan Strange	13	0:47:49	2022
 Brooklan Strange	14	0:44:52	2023
 Brooklan Strange	15	0:45:11	2024
+Brooklan Strange	16	0:50:26	2025
 Brookley Spanbauer	33	0:30:16	2014
 Brooklyn Shurtleff	15	0:34:30	2019
 Bruce Barber	45	0:23:10	2007
@@ -496,10 +524,13 @@ Bryan Gorges	34	0:25:42	2019
 Bryan Gorges	37	0:28:53	2022
 Bryan Gorges	38	0:32:33	2023
 Bryan Gorges	39	0:24:58	2024
+Bryan Gorges	40	0:24:33	2025
 Bryan Keibel	40	0:42:31	2023
 Bryan Keibel	41	0:41:08	2024
 Bryce Wilkinson	15	0:26:32	2024
+Bryce Wilkinson	16	0:21:42	2025
 Brysen Brockway	12	0:30:07	2024
+Brysen Brockway	13	0:29:48	2025
 Brystal Neff	12	0:27:55	2015
 Burce Tillapaugh	45	0:22:10	1999
 Caden Michalec	14	0:24:43	2018
@@ -519,6 +550,7 @@ Caitlin Sullivan	15	0:21:58	2004
 Caitlin Sullivan	16	0:20:31	2005
 Caitlin Sullivan	17	0:22:16	2006
 Caleb Downing	15	0:28:28	2024
+Caleb Downing	16	0:21:28	2025
 Caleb Kinney	18	0:23:46	2011
 Caleb Kinney	19	0:20:39	2012
 Caleb Kinney	20	0:21:18	2013
@@ -533,6 +565,7 @@ Camille Sage	43	0:40:17	2001
 Carey Stickels	45	0:49:02	2022
 Carey Stickels	46	0:44:30	2023
 Carey Stickels	47	0:37:00	2024
+Carey Stickels	48	0:45:02	2025
 Carin Kennard	38	0:25:48	2010
 Carin Kennard	39	0:25:04	2011
 Carl Franck	58	0:21:36	2010
@@ -548,6 +581,7 @@ Carl Franck	69	0:28:09	2021
 Carl Franck	70	0:29:30	2022
 Carl Franck	71	0:30:44	2023
 Carl Franck	72	0:31:40	2024
+Carl Franck	73	0:36:05	2025
 Carl Stickels	46	0:30:40	2016
 Carl Stickels	47	0:29:23	2017
 Carl Stickels	48	0:31:05	2018
@@ -555,10 +589,12 @@ Carl Stickels	49	0:28:42	2019
 Carl Stickels	52	0:33:29	2022
 Carl Stickels	53	0:28:36	2023
 Carl Stickels	54	0:25:46	2024
+Carl Stickels	55	0:28:19	2025
 Carl Stickes	45	0:29:48	2015
 Carmela MacKenzie	40	0:29:46	2004
 Carmelo Riley-Israel	17	0:32:24	2024
 Carmen Bishop	13	0:28:24	2024
+Carmen Bishop	14	0:27:57	2025
 Carol Crean	50	0:36:42	2000
 Carol Forehand	62	0:39:54	2013
 Carol Forehand	66	0:41:04	2015
@@ -610,6 +646,7 @@ Catie Eisenhut	15	0:21:37	2017
 Catie Eisenhut	16	0:20:23	2018
 Catie Eisenhut	17	0:21:02	2019
 Catlun Ramsey	30	0:20:49	1999
+Caydin Norton	16	0:55:32	2025
 Caylin Todd	14	0:34:13	2016
 Caylin Todd	15	0:26:49	2017
 Chad Shurtleff	29	0:29:11	2006
@@ -620,7 +657,9 @@ Charles Bernhardt	34	0:20:01	2003
 Charles Bernhardt	38	0:20:14	2007
 Charles Bernhardt	39	0:21:03	2008
 Charles Bernhardt	41	0:20:32	2010
+Charles Knorr-Crawley	14	0:56:46	2025
 Charles Osenkarski	41	0:27:12	2018
+Charles Osenkarski	48	0:23:36	2025
 Charles Pratt	15	0:24:23	2006
 Charles Pratt	16	0:24:07	2007
 Charles Pratt	25	0:20:56	2016
@@ -633,10 +672,12 @@ Charlie Nesbit	43	0:27:18	1999
 Charlotte Brockmyre	28	0:30:38	2018
 Charlotte Cappadora	8	0:35:34	2022
 Charlotte Cappadora	10	0:29:30	2024
+Charlotte Cappadora	11	0:27:04	2025
 Charlotte Saracene	59	0:29:23	2003
 Chelsea Hall	15	0:28:34	2003
 Chelsea Hall	16	0:28:31	2004
 Chelsea Maceda	17	0:25:30	2011
+Chelsea Ryan	39	0:34:31	2025
 Chelsea Usack	12	0:24:20	2000
 Cherly McCully	48	0:27:24	1999
 Chesea Maceda	16	0:26:55	2010
@@ -644,6 +685,7 @@ Chloe Bishop	8	0:39:52	2019
 Chloe Bishop	11	0:37:47	2022
 Chloe Bishop	12	0:33:40	2023
 Chloe Bishop	13	0:28:14	2024
+Chloe Bishop	14	0:36:28	2025
 Chloe Ryan	17	0:23:09	2009
 Chris Bartos	17	0:20:26	2003
 Chris Bodary	44	0:29:26	2015
@@ -693,6 +735,7 @@ Christopher Muka	52	0:22:14	2008
 Christopher Pollock	33	0:28:07	2008
 Christopher Pollock	42	0:31:47	2017
 Christopher Pollock	43	0:31:52	2018
+Christopher Sponn	35	0:23:16	2025
 Christopher Troy	9	0:23:35	2002
 Christopher Troy	11	0:23:17	2004
 Christopher Van Loon	7	0:25:36	2003
@@ -712,13 +755,17 @@ Cindy Coones	35	0:31:39	2016
 Claire Grasmeyer	57	0:29:07	2009
 Claire Ipson	16	0:52:46	2023
 Clara Karastury-Duga	7	0:36:12	2004
+Clayton Lemons	36	0:35:38	2025
 Clayton Moore	58	0:25:46	2003
+Clayton Skinner	46	0:36:32	2025
 Coach Fitsimmons	51	0:28:29	2010
 Cole Banfield	8	0:30:01	2006
+Cole Garrity	11	0:28:36	2025
 Colin Brockway	8	0:32:42	2018
 Colin Brockway	9	0:30:58	2019
 Colin Brockway	13	0:24:11	2023
 Colin Brockway	14	0:21:59	2024
+Colin Brockway	15	0:25:29	2025
 Colin Davis	16	0:22:05	2008
 Colin Morey	13	0:26:41	2017
 Colin Morey	14	0:24:46	2018
@@ -726,8 +773,10 @@ Colin Morey	15	0:24:45	2019
 Colin Morey	17	0:27:45	2021
 Colin Obrien	14	0:24:44	2023
 Colin Obrien	15	0:20:57	2024
+Colin Obrien	16	0:19:38	2025
 Colin Snyder	15	0:28:19	2008
 Colin Snyder	17	0:23:29	2010
+Colin Wilkinson	14	0:33:41	2025
 Colin Wood	17	0:34:41	2014
 Colleen Eccles	17	0:20:17	1999
 Colleen Gloster-Gray	49	0:39:50	2012
@@ -735,8 +784,9 @@ Colleen Gloster-Gray	50	0:34:28	2013
 Colson Slade	6	0:37:07	2015
 Colson Slade	7	0:34:47	2016
 Colson Slade	8	0:35:45	2017
-Colson Slade	15	0:22:55	2024
 Colson Slade	18	0:25:31	2023
+Colson Slade	15	0:22:55	2024
+Colson Slade	16	0:28:49	2025
 Connie Ciccone	63	0:45:10	2008
 Connor Fitzsimmons	15	0:23:50	2007
 Connor Lapresi	15	0:21:34	2010
@@ -769,6 +819,7 @@ Craig Hebdon	40	0:23:06	1999
 Craig Ridosh	17	0:22:20	2000
 Crescent Lonnquist	21	0:23:20	1998
 Cristopher Crooker	41	0:28:06	2007
+Cronan Leblanc II	13	0:41:05	2025
 Cynthia Robbs	46	0:22:07	2017
 Dakodah Mayhew	16	0:32:04	2023
 Dakodah Mayhew	17	0:23:41	2024
@@ -804,6 +855,7 @@ Dan Wakeman	52	0:34:07	2019
 Dan Wakeman	55	0:26:44	2022
 Dan Wakeman	56	0:27:37	2023
 Dan Wakeman	57	0:26:15	2024
+Dan Wakeman	58	0:27:22	2025
 Dana Gerhalt	44	0:25:51	1998
 Dana Gerhart	59	0:23:58	2013
 Dana Gerhart	60	0:24:29	2014
@@ -813,6 +865,7 @@ Danean Fatcheric	46	0:34:42	2014
 Daner Dwyer	50	0:22:35	2011
 Daniel Comisi	17	0:23:12	2009
 Daniel Dedrick	15	0:23:51	2019
+Daniel Dryja	44	0:28:58	2025
 Daniel Kalinowski	31	0:20:23	2022
 Daniel Kalinowski	32	0:22:42	2023
 Daniel Kinney	50	0:23:43	2011
@@ -826,6 +879,7 @@ Daniel Szpiro	50	0:26:55	2009
 Daniel Thomas	16	0:18:47	2000
 Daniel Walker	15	0:21:35	2002
 Danielle Caracci	16	0:21:06	1998
+Danielle Ryan	41	0:24:20	2025
 Danielle Slade	35	0:26:51	2015
 Danielle Slade	36	0:30:17	2016
 Danielle Slade	37	0:35:54	2017
@@ -843,6 +897,7 @@ Dave Patruno	39	0:20:06	2004
 Dave Slater	31	0:18:11	2015
 Dave Taylor	52	0:32:28	2019
 David Baker	17	0:19:28	1998
+David Dlugosz	47	0:35:24	2025
 David Elliot	39	0:19:04	2002
 David Fernandez	52	0:23:35	2002
 David Fernandez	53	0:19:57	2003
@@ -861,6 +916,7 @@ David Jung	50	0:22:12	2010
 David Jung	54	0:24:03	2014
 David Kalb	48	0:21:50	2005
 David Kania	39	0:19:33	2019
+David Kania	45	0:20:23	2025
 David Keifer	70	0:23:21	2016
 David Keifer	72	0:26:17	2018
 David Kelchner	13	0:23:02	2019
@@ -917,11 +973,13 @@ Dennis Gilyard	72	0:41:11	2023
 Denrick Gooden	26	0:42:46	2019
 Derek Dean	31	0:18:10	2002
 Derran Morris	15	0:32:07	2024
+Derran Morris	16	0:32:18	2025
 Destry Knapp	42	0:38:25	2015
 Devon Crispell	15	0:24:09	2007
 Devon Crispell	17	0:22:10	2009
 Devyn Blasz	15	0:29:52	2023
 Devyn Blasz	16	0:29:21	2024
+Devyn Blasz	17	0:41:19	2025
 Devyn Blayz	14	0:35:02	2022
 Diana Payne	16	0:23:46	2001
 Diane Cummings	63	0:34:13	2022
@@ -931,12 +989,14 @@ Diego Nino	17	0:28:12	2019
 Diella Nino	14	0:29:27	2022
 Diella Nino	15	0:25:29	2023
 Diella Nino	16	0:28:06	2024
+Diella Nino	17	0:29:01	2025
 Dirk Galbraith	54	0:22:36	2000
 Dirk Galbraith	55	0:22:59	2001
 Don Barber	58	0:25:38	2008
 Don Evener	29	0:25:54	2024
 Don Lawrence	34	0:22:14	1999
 Don Robbins	54	0:23:57	2000
+Donald Evener	30	0:26:47	2025
 Donald Short	43	0:29:43	2012
 Donna Eschenbrenner	50	0:36:29	2008
 Donna Eschenbrenner	55	0:37:46	2013
@@ -957,6 +1017,7 @@ Douglas Fernandez	11	0:23:57	2004
 Douglas Fernandez	15	0:25:31	2008
 Douglas Hoogervorst	53	0:31:45	2023
 Douglas Kelly	58	0:34:13	2024
+Douglas Kelly	59	0:34:50	2025
 Douglas Moore	10	0:28:37	2003
 Dowain Geesey	14	0:31:15	2017
 Dowain Geesey	15	0:31:39	2018
@@ -1014,6 +1075,7 @@ Elijah Griep	16	0:32:20	2018
 Elijah Griep	17	0:25:19	2019
 Elizabeth Cobb	27	0:31:58	2019
 Elizabeth Dryja	51	0:39:01	2023
+Elizabeth Dryja	53	0:35:49	2025
 Elizabeth Elton	24	0:47:16	2018
 Elizabeth Haines	26	0:31:15	2019
 Elizabeth Hartnett	54	0:27:23	2003
@@ -1023,8 +1085,11 @@ Elizabeth Lawson	54	0:40:35	2004
 Elizabeth Loparco	15	0:24:03	1999
 Elizabeth Ninivaggi	40	0:40:49	2023
 Elizabeth Ninivaggi	41	0:39:33	2024
+Elizabeth Ninivaggi	42	0:38:04	2025
+Ella Moll	21	0:44:29	2025
 Ellard Keister	34	0:28:52	2023
 Ellard Keister	35	0:25:02	2024
+Ellard Keister	36	0:24:27	2025
 Ellen Leventry	38	0:31:06	2011
 Ellen Reed	24	0:45:56	2013
 Ellen Reed	26	0:45:32	2015
@@ -1049,6 +1114,7 @@ Emily Miller	15	0:21:44	2017
 Emily Miller	16	0:20:54	2018
 Emily Miller	17	0:20:20	2019
 Emily Miller	22	0:19:30	2024
+Emily Miller	23	0:19:10	2025
 Emily Rasmussen	14	0:26:25	2010
 Emily Rasmusson	13	0:28:37	2009
 Emily Thresher	15	0:31:42	2011
@@ -1068,6 +1134,7 @@ Eric Eastman	14	0:25:41	2013
 Eric Eisenhunt	50	0:27:16	2018
 Eric Eisenhut	49	0:27:45	2017
 Eric Eisenhut	55	0:29:55	2023
+Eric Hathaway	47	0:23:42	2025
 Eric Maki	48	0:18:54	2010
 Eric Maki	49	0:19:13	2011
 Eric Maki	50	0:18:57	2012
@@ -1084,10 +1151,12 @@ Eric Vanderpool	15	0:20:33	2007
 Eric Varvayanis	16	0:22:09	2014
 Eric Watson	13	0:23:39	1998
 Erica Gustafson	15	0:41:12	2024
+Erica Gustafson	16	0:38:31	2025
 Erica Herman	26	0:30:36	2017
 Erica Masler	13	0:27:46	2003
 Erica Miranda	14	0:41:09	2023
 Erica Miranda	15	0:41:13	2024
+Erica Miranda	16	0:38:29	2025
 Erica Rybinski	12	0:25:49	2001
 Erica Slater	17	0:29:54	2010
 Erik Whittelton	15	0:23:37	1999
@@ -1102,9 +1171,11 @@ Ernie Quarella	52	0:29:45	2015
 Ernie Quarella	53	0:25:25	2016
 Ernie Quarella	54	0:26:56	2017
 Ernie Quarella	55	0:29:12	2018
+Ethan Littlejohn	14	0:24:28	2025
 Ethan Mitchell	13	0:25:34	2015
 Ethan Van Houten	14	0:19:49	2005
 Eugene Forehand	40	0:34:17	2013
+Eva Brockway	12	0:32:20	2025
 Evan Henkel	16	0:23:00	2006
 Evan Henkel	17	0:23:12	2007
 Eve Shaff	13	0:37:48	2022
@@ -1113,6 +1184,7 @@ Everett Nelson	61	0:41:37	2015
 Faith Forester	15	0:34:33	2014
 Faith Forster	14	0:34:48	2013
 Felix Hafner	14	0:29:07	2019
+Frank White III	14	0:22:08	2025
 Franky Paetow	16	0:26:17	2014
 Fred Honnold	61	0:25:22	2003
 G. Jesse McConnell	16	0:19:37	2005
@@ -1122,6 +1194,7 @@ Gage Bush	15	0:21:48	2008
 Gage Bush	16	0:22:09	2009
 Gage Bush	17	0:20:30	2010
 Gage Seamans	18	0:25:20	2023
+Gage Seamans	17	0:33:15	2025
 Gaige Seamans	16	0:26:58	2024
 Gail Peck	63	0:45:15	2023
 Garrett Lockwood	14	0:26:31	2012
@@ -1221,9 +1294,11 @@ Hannah Chase	24	0:38:26	2012
 Hannah Collingsworth	12	0:32:19	2013
 Hannah Isengard	16	0:39:46	2009
 Hannah Neville	14	0:49:20	2024
+Hannah Neville	15	0:52:35	2025
 Harry Delahunta	41	0:21:20	2000
 Hayley Perreault	16	0:33:22	2009
 Heather Justian	39	0:31:48	2018
+Heather Lemons	36	0:35:38	2025
 Heather Miller	28	0:20:28	2002
 Heather Miller	31	0:19:55	2005
 Heather Miller	33	0:20:35	2007
@@ -1254,8 +1329,9 @@ Holly Hicks	51	0:29:00	2023
 Holly McMahon	14	0:27:47	2010
 Hope Kendrick	16	0:25:48	1999
 Howie Hilsinger	32	0:23:05	2001
-Hunter Degraw	17	0:32:31	2024
+Hudson Scaglione	16	0:44:32	2025
 Hunter Degraw	18	0:26:49	2023
+Hunter Degraw	17	0:32:31	2024
 Hunter Kunzman	16	0:24:47	2022
 Hunter Vanalstine	13	0:32:52	2014
 Hunter Vanalstine	14	0:31:30	2015
@@ -1265,6 +1341,7 @@ Ilene Miller	53	0:27:57	2021
 Inish O'Doherty	40	0:25:22	2024
 Jacey Hatfield	15	0:33:11	2018
 Jack Carroll	12	0:22:33	2000
+Jack Ingram	15	0:29:10	2025
 Jack Mandeville	47	0:23:43	2001
 Jack Miller	16	0:29:27	2017
 Jack Spallone	15	0:24:55	2005
@@ -1283,6 +1360,7 @@ Jackie Hudgston	51	0:33:36	2003
 Jackie Hudgston	52	0:31:23	2004
 Jackie Hudgston	53	0:33:05	2005
 Jackie Hudgston	54	0:34:38	2006
+Jackie Schnurr	53	0:40:00	2025
 Jackson Slade	12	0:23:58	2015
 Jackson Slade	13	0:24:04	2016
 Jackson Slade	14	0:21:31	2017
@@ -1299,6 +1377,7 @@ Jacob Howell	16	0:27:38	2014
 Jacob Jandrokovic	12	0:25:02	2022
 Jacob Jandrokovic	13	0:23:16	2023
 Jacob Jandrokovic	14	0:21:47	2024
+Jacob Jandrokovic	15	0:21:19	2025
 Jacob Palmer	20	0:21:17	2016
 Jacob Randolph	25	0:31:24	2018
 Jacob Randolph	26	0:28:25	2019
@@ -1307,8 +1386,8 @@ Jacob Randolph	31	0:28:22	2024
 Jacob Slater	15	0:22:55	2012
 Jacob van Almelo	14	0:26:33	2001
 Jacob Van Almelo	15	0:22:48	2002
-Jacob VanAlmelo	12	0:25:23	2000
 Jacob VanAlmelo	12	0:32:50	1999
+Jacob VanAlmelo	12	0:25:23	2000
 Jacq Goehner	17	0:22:10	2010
 Jacquelyn Charbono	12	0:34:37	2015
 Jade Auchmoody	15	0:20:31	2012
@@ -1337,12 +1416,14 @@ James Miner	69	0:41:57	2018
 James Miner	72	0:27:11	2021
 James Miner	74	0:37:40	2023
 James Miner	75	0:35:43	2024
+James Miner	76	0:42:17	2025
 James Nuncato	30	0:21:29	2016
 James Osborne	76	0:27:37	2022
 James Sage	64	0:37:57	2015
 James Strehle	46	0:24:05	1999
 James Usack	41	0:19:01	2000
 James Zimmerman	39	0:20:09	1999
+Jameson Novotny	15	0:22:08	2025
 Jamey Jones	47	0:28:11	2019
 Jamie Crawford	15	0:22:23	1998
 Jamie Dibble	53	0:53:13	2023
@@ -1373,6 +1454,7 @@ Jamie Saroka	61	0:50:13	2021
 Jamie Saroka	62	0:28:13	2022
 Jamie Saroka	63	0:37:08	2023
 Jamie Saroka	64	0:33:17	2024
+Jamie Saroka	65	0:30:30	2025
 Jamie Sincerbeaux	35	0:44:15	2016
 Jamie Vanderhoff	16	0:31:20	2000
 Jamie Zigenfus	43	0:52:39	2022
@@ -1380,6 +1462,7 @@ Jamie Zigenfus	44	0:50:57	2023
 Jane Galvin	39	0:25:19	2000
 Jane Galvin	40	0:24:17	2001
 Jared Brown	29	0:30:20	2023
+Jared Harfield	39	0:30:12	2025
 Jared Hatfield	33	0:28:38	2019
 Jared Hatfield	38	0:28:38	2024
 Jared Justian	16	0:23:48	2018
@@ -1410,6 +1493,7 @@ Jason Kaminskei	16	0:19:45	1999
 Jason Kaminski	17	0:18:37	2000
 Jason McCormick	37	0:48:30	2012
 Jason Michalec	40	0:22:24	2019
+Jason Morusti	16	0:30:51	2025
 Jason Phillips	14	0:19:43	2004
 Jason Phillips	15	0:19:45	2005
 Jason Phillips	16	0:18:38	2006
@@ -1435,6 +1519,7 @@ Jeff Adams	16	0:29:12	2000
 Jeff Evener	42	0:26:52	2019
 Jeff Gambitta	39	0:21:24	2010
 Jeff Hardgrove	31	0:21:31	2010
+Jeff Irving	53	0:29:25	2025
 Jeff Orloski	33	0:25:08	2012
 Jeff Roblyer	14	0:24:15	2011
 Jeff Warner	28	0:32:55	2015
@@ -1454,6 +1539,7 @@ Jeffrey Irving	52	0:30:13	2024
 Jeffrey Juran	48	0:18:28	2005
 Jeffrey Naylor	42	0:17:54	2012
 Jeffrey Roblyer	15	0:22:46	2012
+Jeffrey Ryan	38	0:33:56	2025
 Jefreyf Cronk	42	0:27:10	2010
 Jen Lombardi	33	0:28:09	2022
 Jen Manierre	17	0:23:37	2000
@@ -1461,6 +1547,7 @@ Jen Taft	24	0:21:03	2010
 Jena Kimpel	13	0:24:47	2004
 Jena Kimpel	15	0:26:14	2006
 Jena Kimpel	16	0:23:55	2007
+Jency Paw	15	0:35:41	2025
 Jenn Alford	27	0:27:38	2001
 Jenn Alford	33	0:39:50	2007
 Jenna Baker	17	0:34:44	2009
@@ -1471,9 +1558,11 @@ Jennifer Hamilton	39	0:33:02	2012
 Jennifer Hamilton	40	0:32:57	2013
 Jennifer Jones	37	0:40:42	2023
 Jennifer Jones	38	0:37:35	2024
+Jennifer Jones	39	0:39:57	2025
 Jennifer Judson	29	0:27:34	2002
 Jennifer Judson	30	0:26:59	2003
 Jennifer Keister	35	0:29:27	2024
+Jennifer Keister	36	0:30:34	2025
 Jennifer Larkin	23	0:18:55	2001
 Jennifer Lombardi	35	0:28:52	2024
 Jennifer Miller	35	0:34:29	2009
@@ -1492,6 +1581,7 @@ Jeremy Speck	17	0:21:36	2006
 Jeremy Speck	22	0:23:32	2011
 Jeremy Wing	18	0:22:12	1999
 Jerome Turner	15	0:35:09	2024
+Jerome Turner	16	0:23:34	2025
 Jerry Bisson	71	0:26:40	2002
 Jerry Bisson	72	0:26:34	2003
 Jerry Bisson	73	0:26:47	2004
@@ -1512,6 +1602,7 @@ Jerry Smith	74	0:42:28	2021
 Jerry Smith	75	0:38:28	2022
 Jerry Smith	76	0:36:10	2023
 Jerry Smith	77	0:35:57	2024
+Jerry Smith	78	0:36:47	2025
 Jess Hunter	17	0:28:40	2007
 Jesse McConnell	17	0:17:57	2006
 Jesse Wixson	27	0:23:12	2008
@@ -1534,9 +1625,10 @@ Jessica Strange	34	0:51:57	2021
 Jessica Strange	35	0:51:24	2022
 Jessica Strange	36	0:52:24	2023
 Jessica Strange	37	0:52:48	2024
+Jessica Strange	38	0:50:12	2025
 Jessica Tunison	17	0:30:19	2003
-Jessica Tunison	18	0:30:56	2005
 Jessica Tunison	18	0:32:42	2004
+Jessica Tunison	18	0:30:56	2005
 Jessica Tunison	20	0:37:21	2006
 Jessica Tunnison	22	0:44:46	2008
 Jessica Watson	14	0:25:22	2003
@@ -1552,6 +1644,7 @@ Jill Whitener	49	0:33:43	2017
 Jillian Zigenfus	14	0:52:13	2022
 Jillian Zigenfus	15	0:49:37	2023
 Jillian Zigenfus	16	0:50:46	2024
+Jillian Zigenfus	17	0:44:34	2025
 Jim Connors	48	0:26:31	2004
 Jim Connors	52	0:26:04	2008
 Jim Connors	53	0:25:59	2009
@@ -1571,6 +1664,7 @@ Joan Koral	42	0:25:05	2008
 Joan Koral	45	0:26:54	2011
 Joan Koral	46	0:25:14	2012
 Joan Rappaport	60	0:24:07	2023
+Joan Rappaport	62	0:23:20	2025
 Joanne Dabulewicz	49	0:31:51	2002
 Joanne Dabulewicz	50	0:31:31	2003
 Joanne Dabulewicz	53	0:31:38	2006
@@ -1595,6 +1689,7 @@ Jocelyn Lathers	34	0:44:24	2023
 Jocelyn Lathers	35	0:51:00	2024
 Jocelyn Wilczynski	19	0:23:02	1998
 Jodie Whittle	30	0:27:47	1999
+Jodie Whittle	56	0:31:35	2025
 Joe Beard	34	0:23:26	2002
 Joe Hardie	22	0:20:29	2009
 Joe Hardie	23	0:21:29	2010
@@ -1610,6 +1705,7 @@ Joel Brock	53	0:26:07	2012
 Joel Brock	55	0:29:38	2014
 Joel Brock	57	0:29:47	2016
 Joel Brock	59	0:36:23	2018
+Joel Kresock	5	1:01:08	2025
 Joel Twitchell	13	0:26:40	2008
 Joel Twitchell	14	0:24:07	2009
 Joel Twitchell	15	0:23:03	2010
@@ -1642,8 +1738,8 @@ John Dutcher	42	0:26:35	2001
 John Dutcher	43	0:27:16	2002
 John Dutcher	45	0:29:12	2003
 John Dutcher	46	0:29:55	2004
-John Dutcher	47	0:31:17	2006
 John Dutcher	47	0:32:37	2005
+John Dutcher	47	0:31:17	2006
 John Dutcher	48	0:29:35	2007
 John Dutcher	49	0:27:29	2008
 John Dutcher	50	0:29:12	2009
@@ -1681,6 +1777,8 @@ John Michael Ciccone	28	0:22:51	2008
 John Mooney	27	0:33:36	2016
 John Mooney	28	0:32:58	2017
 John Morroni	17	0:23:25	2001
+John Novotny	42	0:21:56	2025
+John Novotny III	15	0:26:14	2025
 John Schaefer	15	0:25:24	2011
 John Schafer	16	0:22:18	2012
 John Sears	14	0:23:39	2001
@@ -1713,6 +1811,7 @@ Jonathan Schiefen	14	0:21:50	2004
 Jonathan Schiefen	15	0:21:10	2005
 Jonathan Windsor	9	0:36:20	2022
 Jonathan Windsor	11	0:28:11	2024
+Jonathan Windsor	12	0:31:15	2025
 Jonathon Pecters	40	0:19:05	2018
 Jordan Houston	15	0:48:31	2016
 Jordan Houston	17	0:48:58	2018
@@ -1762,6 +1861,7 @@ Judith Drake	55	0:30:09	2024
 Judson Holl	14	0:31:58	2021
 Judson Holl	16	0:28:45	2023
 Judson Holl	17	0:29:39	2024
+Julia Powers	10	0:46:31	2025
 Julie Azzolina	36	0:28:07	2007
 Julie Barclay	38	0:21:40	2011
 Julie Barclay	39	0:21:43	2012
@@ -1790,6 +1890,7 @@ Kadyn Casterline	13	0:41:06	2021
 Kadyn Casterline	14	0:35:48	2022
 Kadyn Casterline	15	0:41:08	2023
 Kadyn Casterline	23	0:48:11	2024
+Kadyn Casterline	17	0:44:29	2025
 Kael Eldred	11	0:32:52	2015
 Kael Eldred	12	0:34:20	2016
 Kael Eldred	13	0:29:32	2017
@@ -1803,6 +1904,7 @@ Kaitlyn Houghtling	14	0:25:41	2010
 Kaitlyn Houghtling	15	0:24:15	2011
 Kameron McClain	9	0:43:01	2019
 Kameron McClain	14	0:25:13	2024
+Kameron McClain	15	0:27:48	2025
 Karen Adams	29	0:30:17	2002
 Karen Grover	31	0:24:47	2001
 Karen Grover	32	0:22:44	2002
@@ -1814,6 +1916,7 @@ Karen Shepherd	44	0:30:19	2009
 Kari Gallow	15	0:23:04	2000
 Kari Gallow	16	0:23:59	2001
 Kari Waters	38	0:52:31	2023
+Karl Childress	17	0:23:53	2025
 Karl Czymmek	49	0:22:51	2011
 Karl Czymmek	50	0:22:22	2012
 Karla Rimmer	29	0:28:32	2002
@@ -1856,6 +1959,8 @@ Katy Brockway	37	0:43:01	2019
 Katy Brockway	39	0:26:57	2021
 Katy Brockway	41	0:25:55	2023
 Katy Brockway	42	0:25:52	2024
+Katy Brockway	43	0:25:29	2025
+Kayleb Noble	18	0:39:36	2025
 Kaylee Harris	8	0:39:04	2016
 Kaylee Harris	13	0:38:33	2021
 Kaylee Harris	14	0:36:35	2022
@@ -1865,6 +1970,7 @@ KC Bennett	53	0:28:05	2012
 Keil Holmstrom	16	0:22:37	2001
 Keil Holmstrom	17	0:21:38	2002
 Keith Chapin	39	0:21:23	2015
+Keith Chapin	49	0:23:03	2025
 Keith Eggleston	41	0:23:03	2001
 Keith Eggleston	42	0:21:49	2002
 Keith Eggleston	43	0:22:14	2003
@@ -1885,6 +1991,7 @@ Keith Eggleston	61	0:20:22	2021
 Keith Eggleston	62	0:20:53	2022
 Keith Eggleston	63	0:21:40	2023
 Keith Eggleston	64	0:21:05	2024
+Keith Eggleston	65	0:21:11	2025
 Keith Roneker	14	0:25:56	2000
 Keith Roneker	15	0:21:32	2001
 Keith Roneker	16	0:21:33	2002
@@ -1903,6 +2010,7 @@ Kendall Eldred	11	0:46:58	2021
 Kendall Eldred	12	0:40:14	2022
 Kendall Eldred	13	0:40:34	2023
 Kendall Eldred	14	0:41:16	2024
+Kendall Eldred	15	0:38:59	2025
 Kendall Murray	8	0:42:23	2019
 Kendra Geesey	12	0:38:57	2021
 Kendra Stenger	16	0:26:28	2007
@@ -1944,6 +2052,7 @@ Khaya Makhuba	16	0:26:59	2008
 Kim Boothe	38	0:46:31	2011
 Kim Jackson	48	0:26:03	2017
 Kim Jackson	49	0:25:23	2018
+Kim Jackson	56	0:25:18	2025
 Kim Kelchner	41	0:35:54	2019
 Kim Kraebel	46	0:25:55	2015
 Kimberly Griffiths	31	0:34:24	2010
@@ -1987,6 +2096,7 @@ Kyle Gallow	34	0:25:37	2021
 Kyle Gallow	35	0:41:15	2022
 Kyle Gallow	36	0:40:46	2023
 Kyle Gallow	37	0:39:52	2024
+Kyle Gallow	38	0:34:52	2025
 Kyle Howser	12	0:26:31	2012
 Kyle Kinney	19	0:20:43	2011
 Kyle Kinney	20	0:20:20	2012
@@ -2019,6 +2129,7 @@ Lane Darling	12	0:28:45	2021
 Lane Darling	13	0:45:43	2022
 Lane Darling	14	0:26:40	2023
 Lane Darling	15	0:21:15	2024
+Lane Darling	16	0:21:18	2025
 Larkin Kimmerer	16	0:21:13	2003
 Larkin Kimmerer	17	0:20:06	2004
 Larkin Podsiedlik	28	0:24:55	2015
@@ -2039,17 +2150,19 @@ Laura Barnstead	14	0:28:57	2010
 Laura Barnstead	15	0:27:22	2011
 Laura Cole	14	0:22:28	1998
 Laura Dorward	36	0:26:57	2007
-Laura Flood	15	0:28:19	2009
 Laura Flood	15	0:36:41	2008
+Laura Flood	15	0:28:19	2009
 Laura Flood	16	0:32:46	2010
 Laura Hunsinge	36	0:23:57	1999
 Laura Morroni	14	0:25:43	2002
 Laura Morroni	15	0:25:42	2003
 Laura Morroni	16	0:24:12	2004
+Laura Morse	45	0:22:57	2025
 Laura Norris	56	0:49:04	2016
 Lauren Belcher	8	0:27:34	2022
 Lauren Belcher	9	0:28:30	2023
 Lauren Belcher	10	0:27:14	2024
+Lauren Belcher	11	0:28:57	2025
 Lauren Clinger	29	0:31:56	2019
 Lauren Debonis	22	0:37:24	2022
 Lauren Debonis	23	0:39:01	2023
@@ -2070,28 +2183,33 @@ Leanna Jackson	13	0:31:28	2018
 Leigh Miller	16	0:24:25	2017
 Leigha Aitchison	26	0:33:27	2024
 Lena Brehm	15	0:36:52	2022
+Leo Morse	13	0:23:25	2025
 Leon Brockway	36	0:32:42	2018
 Leon Brockway	37	0:30:58	2019
 Leon Brockway	39	0:25:28	2021
 Leon Brockway	42	0:25:20	2024
-Les Buchanan	39	0:22:40	2003
+Leon Brockway	43	0:29:41	2025
 Les Buchanan	39	0:23:14	2002
+Les Buchanan	39	0:22:40	2003
 Les Buchanan	44	0:27:13	2007
 Leslie Zolnik	32	0:29:46	2014
 Letusha Buchanan	16	0:24:12	1999
 Lezlie Kennedy	33	0:41:24	1998
 Liam Hulsebosch	17	0:21:00	2017
+Liam Smith	14	0:27:31	2025
 Liam Strang	10	0:32:08	2018
 Liam Strang	11	0:26:51	2019
 Liam Woodard	10	0:42:19	2015
 Liesl Moll	9	0:37:04	2022
 Liesl Moll	10	0:52:48	2023
 Liesl Moll	11	0:32:01	2024
+Liesl Moll	12	0:28:13	2025
 Lilly McCormick	10	0:30:45	2012
 Lilly McCormick	11	0:32:31	2013
 Lilly McCormick	13	0:26:10	2015
 Lily Heim	14	0:26:40	2023
 Lily Heim	15	0:26:52	2024
+Lily Heim	16	0:28:12	2025
 Lin Loparco	14	0:27:31	1998
 Lin Loparco	15	0:31:20	1999
 Lincoln Martinez	9	0:32:32	2023
@@ -2120,6 +2238,8 @@ Logan Oltz	30	0:29:20	2018
 Logan Oltz	33	0:35:31	2021
 Logan Oltz	35	0:30:58	2023
 Logan Oltz	36	0:24:38	2024
+Logan Oltz	37	0:26:39	2025
+Logan Personius	15	0:26:00	2025
 Lonnie Hinkle	14	0:27:10	2003
 Lonnie Hinkle	15	0:23:41	2004
 Lonnie Hinkle	18	0:41:34	2007
@@ -2141,6 +2261,7 @@ Lucas Darling	13	0:34:26	2019
 Lucas Darling	15	0:28:45	2021
 Lucas Darling	16	0:24:46	2022
 Lucas Darling	18	0:24:42	2024
+Lucas Darling	19	0:24:46	2025
 Lucius Dann	13	0:26:10	2019
 Luke Babel	16	0:29:55	2012
 Luke Davis	16	0:20:23	2008
@@ -2151,8 +2272,8 @@ Luke Lauchle	15	0:25:00	2012
 Luke Lauchle	16	0:24:14	2013
 Luke Pamel	24	0:32:42	2010
 Luke Pamel	25	0:30:42	2011
-Luke Varvayanis	12	0:23:41	2015
 Luke Varvayanis	12	0:24:19	2014
+Luke Varvayanis	12	0:23:41	2015
 Lydia Ipson	14	0:51:39	2023
 Lynn Benedetto	46	0:28:46	2012
 Lynn Swisher	46	0:35:43	2003
@@ -2164,13 +2285,17 @@ Mac Knight	51	0:29:56	2005
 MacKenzie Rice	12	0:28:25	2006
 Mackenzie Rice	13	0:25:21	2007
 Maclin Houston	43	0:26:21	2015
+Madalyn Perkins	19	0:46:50	2025
 Maddux Dyson	13	0:31:31	2023
 Maddux Dyson	14	0:24:47	2024
+Maddux Dyson	15	0:26:00	2025
 Madelyn Weeks	13	0:33:11	2024
+Madelyn Weeks	14	0:33:22	2025
 Madison Bussmann	14	0:30:14	2010
 Madison Degraw	16	0:58:51	2024
 Madison Lockwood	14	0:49:37	2023
 Madison Lockwood	15	0:50:57	2024
+Madison Lockwood	16	0:44:34	2025
 Maggie Donovan	30	0:21:33	2008
 Marc Burger	50	0:31:33	2023
 Marc Sabin	17	0:28:26	2010
@@ -2200,6 +2325,7 @@ Marie Hebdon	36	0:30:17	2000
 Marie Smith	42	0:29:05	2000
 Marilyn Miller	60	0:32:59	2002
 Marilyn Miller	61	0:34:13	2003
+Marinn Guest	13	0:29:58	2025
 Marissa Cronk	12	0:33:10	2012
 Marissa Cronk	14	0:28:26	2013
 Marissa Cronk	15	0:28:34	2014
@@ -2232,6 +2358,7 @@ Mark Vallely	42	0:24:18	2001
 Mark Vidulich	14	0:21:55	2006
 Mark Vidulich	16	0:21:52	2008
 Marley Antrum	15	0:40:32	2024
+Marley Antrum	16	0:44:12	2025
 Marlin Houson	43	0:26:29	2016
 Marlin Houston	40	0:25:52	2014
 Marlin Houston	44	0:25:34	2017
@@ -2240,6 +2367,7 @@ Marlin Houston	46	0:25:44	2019
 Marlin Houston	48	0:26:54	2021
 Marlin Houston	50	0:28:07	2023
 Marlin Houston	51	0:25:27	2024
+Marlin Houston	52	0:28:10	2025
 Marsha Durbin	36	0:33:19	2000
 Marsha Durbin	37	0:33:42	2001
 Marsha Durbin	38	0:31:15	2002
@@ -2296,6 +2424,7 @@ Matthew Roblyer	14	0:23:29	2010
 Matthew Usack	30	0:20:44	2000
 Matty Lucey	17	0:24:13	2022
 Matty Lucey	18	0:25:29	2023
+Max Bishop	16	0:29:26	2025
 Max Hermanson	8	0:35:43	2003
 Max Hermanson	10	0:28:52	2005
 Max Stammer	15	0:20:57	2011
@@ -2304,6 +2433,7 @@ May Jenks	56	0:36:47	2013
 Meagan Grieger	16	0:28:34	2006
 Meagan Ramplin	39	0:26:17	2024
 Meegan Marvin	17	0:44:12	2009
+Megan Barber	51	0:32:49	2025
 Megan Walsh	28	0:32:58	2017
 Meghan Hathaway	14	0:24:22	2001
 Meghan Sullivan	14	0:26:10	2002
@@ -2334,6 +2464,7 @@ Michael Anderson	57	0:23:39	2005
 Michael Anderson	62	0:24:21	2010
 Michael Anderson	64	0:24:52	2012
 Michael Bergen	42	0:30:00	2008
+Michael Bohling	15	0:27:21	2025
 Michael Bryant	55	0:22:03	2018
 Michael Bryant	56	0:20:46	2019
 Michael Bryant	58	0:21:49	2021
@@ -2360,6 +2491,7 @@ Michael O'Donnell	17	0:22:32	2008
 Michael Perkins	13	0:26:39	2011
 Michael Provvidenti	20	0:18:36	2019
 Michael Rankin	33	0:25:14	2024
+Michael Rankin	34	0:24:38	2025
 Michael Roberts	33	0:17:30	2014
 Michael Sickmon, II	15	0:23:31	2008
 Michael Tenkate	28	0:29:46	2004
@@ -2428,6 +2560,7 @@ Mikhail Kern	27	0:17:29	2018
 Mikhail Kern	28	0:16:49	2019
 Mikhail Kern	32	0:18:32	2023
 Mikhail Kern	33	0:18:13	2024
+Mikhail Kern	34	0:23:45	2025
 Miles Couch	14	0:21:50	2017
 Miranda Wolf	23	0:28:06	2024
 Mitch Collingsworth	54	0:27:36	2013
@@ -2435,6 +2568,7 @@ Mitchell Pesesky	13	0:23:13	2001
 Monica Anderson	60	0:43:14	2017
 Monica Moll	38	0:23:42	2019
 Monica Moll	43	0:25:20	2024
+Monica Moll	44	0:26:56	2025
 Monica Moore	16	0:30:18	2007
 Monica Sherman	32	0:29:45	2014
 Monica Sherman	33	0:25:41	2015
@@ -2508,6 +2642,7 @@ Nathan Strange	35	0:49:46	2019
 Nathan Strange	37	0:55:44	2021
 Nathan Strange	38	0:46:32	2022
 Nathan Strange	39	0:38:18	2023
+Nathan Strange	41	0:37:18	2025
 Nathaniel Way	13	0:30:07	2016
 Neil Burns	41	0:35:21	2013
 Neil Hammond	10	0:27:47	2001
@@ -2525,11 +2660,14 @@ Nick Carr	17	0:25:25	2006
 Nick Cobb	20	0:23:03	2009
 Nick Domster	31	0:30:19	2012
 Nick Dyson	37	0:25:22	2023
+Nick Dyson	39	0:29:37	2025
 Nick Gamel	18	0:25:24	2023
 Nick Gardener	16	0:20:39	2006
 Nick Gardner	14	0:21:15	2004
 Nick Gardner	15	0:20:08	2005
 Nick Gardner	17	0:21:41	2007
+Nick Guest	36	0:23:25	2025
+Nick Hildreth	16	0:32:34	2025
 Nick Karandeyev	18	0:32:08	2023
 Nick Mallinson	19	0:22:35	2009
 Nick Mrozowski	28	0:29:55	2010
@@ -2546,7 +2684,9 @@ Nicole Belcher	43	0:38:12	2021
 Nicole Belcher	44	0:31:34	2022
 Nicole Belcher	45	0:30:47	2023
 Nicole Belcher	46	0:47:12	2024
+Nicole Belcher	47	0:49:11	2025
 Nicole Cornelius	51	0:43:03	2023
+Nicole Cornelius	53	0:46:27	2025
 Noah Beck	25	0:23:20	2007
 Noah Heath	9	0:25:30	2015
 Noah Mattice	11	0:27:01	2011
@@ -2568,6 +2708,7 @@ Oliver Brehm	10	0:32:42	2023
 Oliver Moll	7	0:34:56	2022
 Oliver Moll	8	0:48:15	2023
 Oliver Moll	9	0:51:40	2024
+Oliver Moll	10	0:44:31	2025
 Olivia Hoyt	13	0:30:55	2010
 Olivia Longhouse	12	0:25:37	2011
 Olivia Longhouse	13	0:25:07	2012
@@ -2654,6 +2795,7 @@ Penny Stevens	44	0:33:04	2003
 Penny Westbrook	53	0:31:57	2012
 Pete Kresock	39	0:26:19	2022
 Pete Kresock	41	0:29:09	2024
+Pete Kresock	42	1:01:08	2025
 Peter Amos	51	0:25:43	2017
 Peter Dugan	36	0:36:12	2004
 Peter Graney	13	0:29:38	2014
@@ -2661,6 +2803,7 @@ Peter Graney	14	0:31:07	2015
 Peter Graney	15	0:26:28	2016
 Peter Graney	16	0:30:26	2017
 Peter Johnson	10	0:22:49	2024
+Peter Johnson	11	0:22:53	2025
 Peter McGinnis	61	0:22:24	2015
 Peter McGinnis	67	0:24:22	2021
 Peter Nydam	11	0:29:30	2018
@@ -2682,6 +2825,7 @@ Rachel Houston	14	0:38:31	2019
 Rachel Houston	16	0:38:31	2021
 Rachel Houston	17	0:35:27	2022
 Rachel Houston	18	0:43:03	2023
+Rachel Houston	20	0:46:27	2025
 Rachel Martinez	38	0:35:07	2024
 Rachel Phillips	24	0:22:10	2013
 Rachel Saroka	14	0:34:20	1999
@@ -2711,10 +2855,12 @@ Rebecca Sellen	37	0:35:22	2017
 Rebecca Sellen	44	0:58:54	2024
 Rebecca Vliet	47	0:48:35	2022
 Reed Dyson	12	0:37:33	2024
+Reed Dyson	13	0:31:54	2025
 Reese Brockway	11	0:43:01	2019
 Reese Brockway	13	0:41:17	2021
 Reese Brockway	15	0:41:09	2023
 Reese Brockway	16	0:44:52	2024
+Reese Brockway	17	0:38:29	2025
 Reese Lockwood	11	0:29:05	2012
 Reese Lockwood	12	0:30:22	2013
 Reese Lockwood	14	0:24:12	2015
@@ -2729,9 +2875,11 @@ Reid Bush	18	0:24:08	2014
 Reid Bush	22	0:29:58	2018
 Reid Bush	23	0:28:32	2019
 Remington Marshall	14	0:48:11	2024
+Remington Marshall	15	0:44:29	2025
 Rena Moore	22	0:28:07	2008
 Rena Moore	25	0:25:05	2011
 Rena Moore	29	0:31:11	2015
+Renee Cohen	43	0:47:23	2025
 Renee Fives	38	0:30:25	2001
 Renee Streeter	34	0:26:45	2017
 Renee Williams	38	0:27:36	2004
@@ -2770,6 +2918,7 @@ Riley Vliet	13	0:32:23	2021
 Riley Vliet	14	0:29:25	2022
 Riley Vliet	15	0:29:51	2023
 Riley Vliet	16	0:29:40	2024
+Riley Vliet	17	0:41:51	2025
 Rita Leubner	49	0:56:33	1998
 Rob Casterline	43	0:25:21	2014
 Rob Casterline	44	0:29:58	2015
@@ -2803,10 +2952,13 @@ Robert Houston	13	0:31:37	2016
 Robert Houston	14	0:30:34	2017
 Robert Houston	15	0:29:59	2018
 Robert Houston	21	0:24:12	2024
+Robert Houston	22	0:24:58	2025
 Robert Irving	15	0:33:29	2024
+Robert Irving	16	0:34:05	2025
 Robert Kern	63	0:25:44	2012
 Robert McCarthy	51	0:27:36	2023
 Robert McCarthy	52	0:22:08	2024
+Robert McCarthy	53	0:22:26	2025
 Robert McGlenn	15	0:21:12	2002
 Robert McGlenn	16	0:20:24	2003
 Robert McGlenn	17	0:20:57	2004
@@ -2849,6 +3001,7 @@ Ross Bush	12	0:25:18	2021
 Ross Bush	13	0:20:52	2022
 Ross Bush	14	0:24:28	2023
 Ross Bush	15	0:18:32	2024
+Ross Bush	16	0:18:27	2025
 Roxanne Orr	48	0:40:17	2001
 Russell Posegate	25	0:23:06	2003
 Ruth Lantry	53	0:38:31	2006
@@ -2877,6 +3030,7 @@ Ryker Strange	6	0:55:06	2021
 Ryker Strange	7	0:50:26	2022
 Ryker Strange	8	0:51:41	2023
 Ryker Strange	9	0:51:39	2024
+Ryker Strange	10	0:57:10	2025
 Ryker Strange (assisted)	3	0:58:34	2018
 Sabrina Clark	36	0:22:50	1999
 Sally O'Brien	16	0:44:42	2002
@@ -2898,17 +3052,19 @@ Sam Narby	17	0:19:58	2006
 Sam Spaulding	15	0:29:55	2010
 Samantha Cappadora	5	0:45:32	2022
 Samantha Cappadora	7	0:31:30	2024
+Samantha Cappadora	8	0:29:05	2025
 Samantha Deeley	35	0:24:17	2015
 Samantha Humphrey	16	0:45:19	2011
 Samantha Humphrey	23	0:49:17	2018
 Samantha Nash	22	0:26:49	2016
 Samantha Nash	23	0:28:42	2017
-Samantha Nash	24	0:28:17	2019
 Samantha Nash	24	0:30:02	2018
+Samantha Nash	24	0:28:17	2019
 Samantha Nash	27	0:29:25	2021
 Samantha Nash	27	0:48:04	2022
-Samantha Nash	29	0:32:15	2024
 Samantha Nash	29	0:34:57	2023
+Samantha Nash	29	0:32:15	2024
+Samantha Nash	30	0:31:27	2025
 Samantha Phillips	14	0:26:51	2009
 Samantha Sauer	10	0:25:54	2006
 Samantha Sauer	11	0:25:52	2007
@@ -2941,6 +3097,7 @@ Sarah Palmer	14	0:21:37	2006
 Sarah Palmer	15	0:21:13	2007
 Sarah Palmer	16	0:21:53	2008
 Sarah Posegate	26	0:26:16	2003
+Sarah Ridenour	39	0:25:01	2025
 Sarah Whittelton	20	0:31:03	1999
 Sayer Samantha	16	0:21:12	2012
 Scott Chisholm	34	0:24:46	2014
@@ -2952,6 +3109,7 @@ Scott Rapp	53	0:30:28	2002
 Scott Salch	12	0:24:27	2012
 Scotty Buchanan	35	0:20:44	2002
 Sean Green	16	0:35:14	2024
+Sean Greene	17	0:30:51	2025
 Sean Iddings	18	0:20:50	2005
 Sean McCabe	16	0:22:58	2006
 Sean Obrien	16	0:29:48	2023
@@ -2968,6 +3126,7 @@ Shannon Drake	37	0:30:21	2019
 Shannon Drake	40	0:37:49	2022
 Shannon Drake	41	0:33:49	2023
 Shannon Drake	42	0:32:55	2024
+Shannon Drake	43	0:30:06	2025
 Shannon Hazlitt	15	0:24:19	2008
 Shannon Hazlitt	16	0:23:32	2009
 Shannon Hazlitt	17	0:23:11	2010
@@ -2986,6 +3145,7 @@ Shauna Ross	45	0:47:26	2021
 Shawn Bliss	17	0:24:12	2011
 Shawn Boynton	29	0:27:02	2023
 Shawn Emmons	17	0:17:45	1998
+Shawn Gustafson	14	0:33:41	2025
 Shelby Warner	17	0:38:22	2009
 Shelley Dafoe	71	0:37:38	2022
 Sheryl Gillow	15	0:30:05	2003
@@ -2997,6 +3157,7 @@ Sid Rhyant	42	0:18:08	2003
 Sid Rhyant Jr	41	0:18:42	2002
 Sid Rhyant Jr.	43	0:18:25	2004
 Sidney Reeves	23	0:49:03	2022
+Silas St.Clair	13	0:29:37	2025
 Simon Jackson	56	0:22:25	2003
 Simon Moll	38	0:20:19	2018
 Simon Moll	42	0:17:32	2022
@@ -3015,8 +3176,8 @@ Skip Strobel	32	0:25:43	2003
 Skip Strobel	34	0:19:27	2005
 Skip Strobel	35	0:19:00	2006
 Skip Strobel	36	0:26:10	2007
-Somer Pettet	15	0:20:44	2008
 Somer Pettet	15	0:23:16	2007
+Somer Pettet	15	0:20:44	2008
 Sonnie Smith	17	0:25:32	2007
 Sonya Langan	25	0:35:36	2016
 Sonya McCormick	39	0:32:28	2013
@@ -3034,6 +3195,7 @@ Sophia Darling	46	0:27:30	2021
 Sophia Darling	47	0:27:45	2022
 Sophia Darling	48	0:31:53	2023
 Sophia Darling	49	0:29:46	2024
+Sophia Darling	50	0:31:12	2025
 Spencer Hill	35	0:25:54	2000
 Spencer Strickland	15	0:19:55	2017
 Stan Pamel	50	0:27:43	2009
@@ -3049,6 +3211,7 @@ Stephanie Gardner	36	0:21:33	2008
 Stephanie Gardner	43	0:21:14	2015
 Stephanie Gardner	44	0:20:29	2016
 Stephanie Johnson	36	0:29:55	2024
+Stephanie Johnson	37	0:27:51	2025
 Stephanie Mulinos	53	0:27:32	2018
 Stephanie Mulinos	57	0:26:58	2022
 Stephanie Spackman	35	0:27:45	2007
@@ -3101,6 +3264,7 @@ Steven Craft	56	0:39:14	2021
 Steven Craft	57	0:39:44	2022
 Steven Craft	58	0:40:55	2023
 Steven Craft	59	0:42:52	2024
+Steven Craft	60	0:45:25	2025
 Steven Folsom	33	0:17:22	2012
 Steven Gallow	38	0:23:09	1998
 Steven Gallow	39	0:22:45	1999
@@ -3126,6 +3290,7 @@ Steven Gallow	61	0:27:25	2021
 Steven Gallow	62	0:29:19	2022
 Steven Gallow	63	0:30:33	2023
 Steven Gallow	64	0:33:16	2024
+Steven Gallow	65	0:34:21	2025
 Steven Good	17	0:24:00	2006
 Steven Kern	53	0:28:40	2006
 Steven Kern	54	0:32:47	2007
@@ -3168,8 +3333,9 @@ Suzanne Leone	54	0:23:36	2007
 Suzanne Leone	55	0:23:45	2008
 Suzanne Leone	56	0:23:49	2009
 Sydney O'Konsky	17	0:25:55	2008
-Talan O'Connor	16	0:30:45	2024
 Talan O'Connor	18	0:24:31	2023
+Talan O'Connor	16	0:30:45	2024
+Talan O'Connor	17	0:29:00	2025
 Talia Peery	27	0:23:40	2002
 Tallon Larham	29	0:27:35	2009
 Tammi Degraw	35	0:46:11	2019
@@ -3265,6 +3431,7 @@ Thomas Williams	49	0:21:55	2004
 Thomas Williams	50	0:22:15	2005
 Thomas Williams	52	0:21:04	2007
 Tigerlilly Leblanc	36	0:45:11	2023
+Tigerlilly Leblanc	15	0:42:17	2025
 Tim Buckley	45	0:27:54	2012
 Tim Buckley	47	0:33:44	2014
 Tim Buckley	48	0:35:06	2015
@@ -3329,6 +3496,7 @@ Tonya Engst	49	0:23:55	2017
 Tonya Engst	50	0:24:45	2018
 Tonya Engst	51	0:25:19	2019
 Tonya Engst	55	0:27:42	2023
+Tonya Engst	57	0:25:29	2025
 Tor Wildenstein	16	0:20:57	2014
 Tori Hatfield	32	0:31:56	2019
 Tori Woodard	15	0:24:26	2010
@@ -3340,6 +3508,7 @@ Tracer Strange	9	0:38:49	2021
 Tracer Strange	10	0:43:59	2022
 Tracer Strange	11	0:41:31	2023
 Tracer Strange	12	0:34:31	2024
+Tracer Strange	13	0:38:02	2025
 Tracey Hartnett	43	0:24:25	2005
 Travis Allen	23	0:35:08	2017
 Travis Carruthers	18	0:23:25	2007
@@ -3355,6 +3524,7 @@ Trent Thibault	9	0:27:38	2017
 Trent Thibault	10	0:32:05	2018
 Trent Thibault	11	0:24:30	2019
 Trenton Bass	16	0:34:43	2024
+Trenton Bass	17	0:32:45	2025
 Tricia Owlett	37	0:37:14	2024
 Tristan Ashcroft	24	0:21:48	2000
 Tristan Engst	11	0:27:34	2010
@@ -3365,15 +3535,18 @@ Tristin Weeks	11	0:41:55	2019
 Tristin Weeks	15	0:23:32	2023
 Triston Engst	12	0:26:57	2011
 Troy Larsen	54	0:25:41	2023
+Troy Larsen	56	0:24:23	2025
 Troy Meddaugh	14	0:28:11	2010
 Truth Snyder	10	0:31:15	2022
 Truth Snyder	11	0:35:44	2023
 Truth Snyder	12	0:33:11	2024
+Truth Snyder	13	0:33:22	2025
 Tyler Banfield	15	0:26:08	2014
 Tyler Beck	29	0:17:08	2021
 Tyler Beck	30	0:16:51	2022
 Tyler Dasilva	16	0:20:32	2010
 Tyler Hathaway	14	0:23:45	2006
+Tyler Ninivaggi	11	0:41:38	2025
 Tyler Rose	28	0:19:44	2024
 Ulana Holubec	35	0:26:55	2001
 Val Robbins	51	0:35:34	2000
@@ -3384,11 +3557,13 @@ Vaughn Neild	27	0:22:33	1999
 Vicki Brous	38	0:25:51	2012
 Vicki Dann	30	0:56:32	1998
 Victoria Hatfield	37	0:31:03	2024
+Victoria Hatfield	38	0:33:12	2025
 Victoria Tracy	25	0:35:08	2017
 Vincent Borden	7	0:23:24	2006
 Vincent Cappadora	43	0:45:33	2022
 Vincent Scott	15	0:28:01	2017
 Violet Santspree	13	0:48:11	2024
+Violet Santspree	14	0:41:19	2025
 Walter Iddings	43	0:24:06	2003
 Walter Iddings	44	0:23:06	2004
 Walter Iddings	45	0:22:39	2005
@@ -3416,6 +3591,7 @@ Will Czymmek	12	0:33:38	2012
 Will Roberts	16	0:22:38	1999
 Will Roberts	17	0:21:13	2000
 Will Roberts	40	0:24:13	2023
+Will Roberts	42	0:22:36	2025
 Will Stoughton	16	0:24:02	2012
 Will Stoughton	17	0:22:39	2013
 Will Troy	12	0:21:23	2003
@@ -3458,6 +3634,7 @@ Zachary Redfield	15	0:23:08	2015
 Zacherie Boutoille	16	0:27:48	2008
 Zachery Redfield	14	0:25:55	2014
 Zachory Dvornicky	13	0:26:02	2007
+Zandria Blake	12	0:41:12	2025
 Zoe Barclay	12	0:33:06	2014
 Zoe Barclay	13	0:29:17	2015
 Zoe Barclay	14	0:28:29	2016

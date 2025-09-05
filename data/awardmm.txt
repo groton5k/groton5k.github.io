@@ -26,4 +26,5 @@ Year	Name	Age	Time
 2022	Eric Maki	60	20:30
 2023	Keith Eggleston	63	21:40
 2024	Keith Eggleston	64	21:05
+2025	Keith Eggleston	65	21:11
 * - Top masters not in top 3 overall.

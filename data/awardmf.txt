@@ -26,4 +26,5 @@ Year	Name	Age	Time
 2022	Stephanie Mulinos	57	26:58
 2023	Katy Brockway	41	25:55
 2024	Monica Moll	43	25:20
+2025	Joan Rappaport	62	23:20
 * - Top masters not in top 3 overall.

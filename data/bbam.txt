@@ -1,6 +1,7 @@
-Best Times by Age (1998-2024)
+Best Times by Age (1998-2025)
 Age	Name	Time	Year
 4	Ryker Strange	59:23	2019
+5	Joel Kresock	1:01:08	2025
 6	Quentin Getzin	35:39	2014
 7	Vincent Borden	23:24	2006
 8	Christopher VanLoon	25:57	2004

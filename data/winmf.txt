@@ -26,4 +26,5 @@ Year	Name	Age	Time
 2022	Caroline Rasmussen	64	26:58
 2023	Joan Rappaport	60	24:07
 2024	Monica Moll	43	25:20	
+2025	Laura Morse	45	22:57
 * - Overall winner.
